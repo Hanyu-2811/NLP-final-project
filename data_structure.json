@@ -1,0 +1,12 @@
+[
+  {
+    "id": "specific id for each text, (could be int or string)",
+    "text": "the content of human and AI-generated text. (string size of 150-400 words) ",
+    "label": "value 0 or 1 (0 means human generated and 1 means AI generated)",
+    "source":"where these text come from(news, Wikipedia. NYU essays)",
+    "author": "for manually created text who is the author of the text",
+    "model": " for AI-generated text which model is used to create this text",
+    "prompt": " If it was AI-generated text, what prompt is used to generated this text",
+    "set": "Is it train set/ development set/test set"
+  }
+]
