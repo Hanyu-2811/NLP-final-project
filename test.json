@@ -1,0 +1,2602 @@
+[
+  {
+    "id":0,
+    "Human_text":"With a simile , you are comparing two different things , and stating that they 're * similar * . eg \" He smokes * like * a chimney . \" \" * As * fast * as * a cheetah . \" \" We fucked * like * rabbits . \" With a metaphor , you 're stating that one thing * is * something else . The ' something else ' is something that you would n't normally associate with the first thing . eg \" Life * is * a bitch . ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":1,
+    "Human_text":"According to a recent post on reddit , what actually happens ( in the US at least ) is that they go on paid leave while two investigations ( a criminal and then an administrative one ) take place , only after which will any charges be brought against them . This is additionally complicated by the fact that evidence gained during the administrative investigation can not be used in court , but lying",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":2,
+    "Human_text":"1 ) Prevent identity fraud . It 's tougher to use a stolen passport if it has an expiration date . 2 ) Things age , namely the photo used in the passport . 3 ) Technology improves . A lot of technology goes into a passport , both for the identification of the holder \/ authenticity of the passport and to prevent fraud . It 's easier to make sure that everyone 's passport is updated if you know they",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":3,
+    "Human_text":"CHEP (Commonwealth Handling Equipment Pool) is an international company dealing in pallet and container pooling services, serving customers in a range of industrial and retail supply chains .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":4,
+    "Human_text":"It 's a marketing trend . One pillar of consumer marketing is \" product differentiation \" . Through brands , packaging , features and benefits , you make your product different than that of your competitors . Becoming \" gluten free \" is partially differentiation and partly to take advantage of this mostly false perception that \" gluten - free \" is synonymous with health and quality . Becoming \" gl",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":5,
+    "Human_text":"The word xylem is derived from the Greek word \u03be\u03cd\u03bb\u03bf\u03bd (xylon), meaning \"wood\"; the best-known xylem tissue is wood , though it is found throughout the plant.",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":6,
+    "Human_text":"When you visit a web page , you 're looking at a collection of computer code that tells a web browser how to structure and style the content . These languages can include : HTML ( Hypertext Markup Language - generally structure ) CSS ( Cascading Style Sheets - generally for styling and the look & feel ) Javascript , Flash \/ ActionScript etc , mostly for interactivity ... A web browser takes all th",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":7,
+    "Human_text":"In osmosis , water travels through a membrane from a low - concentration ( i.e. less dissolved solids ) mixture to a high - concentration mixture until the concentration on both sides is the same . This happens spontaneously and can be quite dramatic if one side is extremely highly concentrated . This is why drinking salt water is so harmful , osmotic pressure starts sucking water out of your cell",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":8,
+    "Human_text":"An IRA is a retirement account , you know , to save for retirement . Roth IRA = pay taxes now Traditional IRA = pay taxes later Let 's assume you make $ 10k a year and want to put $ 2k of it into an IRA : On a Roth IRA , you pay taxes on the $ 10k this year and all the interest you gain over the years will be tax free . On a traditional IRA , you only pay taxes on $ 8k this year . You pay taxes on",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":9,
+    "Human_text":"This has nothing to do with sexism and simply down to biological \/ genetic factors - men are generally taller and able to add more lean muscle mass and can hit the ball [ harder ] ( URL_0 ) . Combine this with the fact that pro female tennis players are likely only competing and training to beat other pro female players means that they are unlikely to get experience playing against a service game ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":10,
+    "Human_text":"Neither will harm you once they enter your stomach . the common belief that it will sprout inside you is however , incorrect . No sunlight + no soil + no proper hydration = no growth . on a sidenote , if you had a worst case scenario , it is possible to sprout a watermelon inside you but typically this requires the seed to be lodged in your esophagus in a way that prevents stomach acid from dissol",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":11,
+    "Human_text":"No . They are businesses . They might take advantage of various loopholes etc . , but doing so is not related to the fact that they sell ganja . If you sell illegal things you are both selling an illegal thing and evading taxes . Doing the former does not make the later untrue .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":12,
+    "Human_text":"Siblings are those you share parents with . First cousins are those you share grandparents with . Second cousins are those you share great grandparents with . Once removed means that your cousin is of a different generation . Your first cousin once removed would be your parent 's first cousin , or the child of your first cousin .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":13,
+    "Human_text":"All numbers inside a computer are stored in binary - which means they are made up of 1s and 0s . Each digit in binary is called a \" bit \" . So the number of bits indicated the number of digits it can work with . In decimal , a 2 - digit number can be a number between 0 - 99 , and a 4 - digit number can be a number between 0 - 9999 . Well , it 's the same in binary . The more bits , the higher the ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":14,
+    "Human_text":"While you 're partially correct , the stock is falling for two main reasons . Firstly , the shares were over priced to begin with . They were first sold for something like $ 38 , when they should have started quite a bit lower like they planned on initially . Secondly , while people still use facebook , and it generates advertising revenue , investors ca n't see how the site can grow anymore . The",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":15,
+    "Human_text":"> ELI5 : Why is the human sense of smell so bad ? Because our ancestors did n't need it to maximize their evolutionary fitness ( i.e. being able to produce a maximal number of surviving grand - children ) . > Are there other carnivores who ca n't smell ? Good question , sadly I 'm not a zoologist . Humans , however , are considered omnivores . Like pigs . And they smell really bad ~~(pun intended)",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":16,
+    "Human_text":"Maybe it 's because you 've been peeling it the wrong way ? Check this out : URL_0 I know this might not directly answer your question but I 've never had any issues peeling eggs since I saw this .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":17,
+    "Human_text":"They take care to ensure that the chickens are raised and processed in a hygienic fashion to minimize contamination with harmful pathogens . They 're not going to the local ~~Giant~~ grocery store and grabbing a pack of saran - wrapped Perdue chicken tenders and just slapping them on a plate .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":18,
+    "Human_text":"We can make a terabyte of RAM but it would be really expensive and could n't store data when the computer was off . Also we really do n't need the incredibly fast access for the vast majority of that data .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":19,
+    "Human_text":"They use software like [ Photomosaic ] ( URL_0 ) , which creates the large pictures from a given set of small pictures . The algorithm which software like this uses is probably something like : 1 . For each pixel in big picture , find dominant color 2 . Find a small picture with a similar dominant color 3 . Paint the small picture into the pixel space on the big picture This is my best educated gu",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":20,
+    "Human_text":"A lot of animals do n't have great digestive systems - most of the nutrients pass right through their body . In order to get those nutrients , the animal has to process the food more than once . Some animals , like cows , barf up the food to chew it several times before swallowing again . Other animals , like rabbits , just eat their poop to get the nutrients they missed the first time around . Do",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":21,
+    "Human_text":"They 're largely encapsulated in your nice , warm head , and receive a pretty continuous supply of blood from your core , which provides them heat . As well , your tears , being salty , are somewhat more resistant to freezing .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":22,
+    "Human_text":"They are at higher pressure than cruising altitude but lower pressure than on the ground . This is a balance of cost in maintaining a higher pressure within the aircraft .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":23,
+    "Human_text":"Samurai- These people were high - class nobility . They were revered and highly respected individuals . Part of this comes from them following the code of \" Bushido \" , which is a strict moral code that all samurai must hold to . Ninja were assassins . They were not as respected and had no real code of ethics , since they were essentially allowed to do anything to get the job done .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":24,
+    "Human_text":"There 's actually a lot to it . There 's the collapse of the \" sattelites \" ( nations under the Soviet umbrella like East Germany , Poland or the Ukraine ) and of the Kremlin itself . Because the Soviets saw themselves as a global ideology , ie , workers everywhere will rise up and overthrow their capitalist masters , the fall and reversion of sattelites and communist allies weakened their image ,",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":25,
+    "Human_text":"mostly good ol' sailing around and looking at the shape of it . not just captains , but pretty much everyone on the ship would have a pretty good eye for it . see how much land they passed , based on velocity as well . and people going to high places and looking at distinguishing features . cartographers ( mapmakers ) paid good money for that . and the chinese had sailboats hundreds of years befor",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":26,
+    "Human_text":"Intelligent design is the assertion that science leads us to conclude that the universe was designed by some intelligent agent . One of their chief tools is * irreducible complexity * , the notion that certain biological systems are too complete to come about naturally , and must have been designed . On the surface , it is fairly innocuous ... completely unsupported by scientific evidence , but in",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":27,
+    "Human_text":"A for - profit company takes surplus income ( profit ) and gives it to the owners . A non - profit company instead takes those profits and uses them to achieve their set goals , typically some sort of charity .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":28,
+    "Human_text":"Jehovah's Witnesses' beliefs are based on their interpretations of the Bible and they prefer to use their own translation, the New World Translation of the Holy Scriptures .They believe that the destruction of the present world system at Armageddon is imminent, and that the establishment of God's kingdom on earth is the only solution for all problems faced by mankind.",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":29,
+    "Human_text":"I believe it is . If I remember correctly , that link used to be somewhere in the sidebar . Initially , this sub actually answered every question with examples that a five year old would understand , just like Oscar did with Micheal . However , the structure of this sub has changed as it grew larger . Now , most of the questions are answered in adult language , but simplified . EDIT : The link is ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":30,
+    "Human_text":"In many species of insects and fish the female is larger because it leaves more room for eggs . So call \" R - Strategists \" produce large numbers of offspring with little to no parental care , hoping a small number will make it to adult hood . A larger female can produce much more eggs and thus more will survive to adult hood . As opposed to a \" K - strategist \" , the category most mammals fall in",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":31,
+    "Human_text":"This is just opinion , from a ( rather new ) volunteer firefighter . Hydrants were once called \" plugs \" , because the firemain was originally a system of underground pipes made of wooden logs . Firefighters dug down and drilled into them to get water . I , for one , am glad that we 've moved beyond having to dig for hydrants . In a city , some large buildings have standpipes to tie into for water",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":32,
+    "Human_text":"Distance is measured ( mostly ) using a phenomenon known as parallax . Basically , one measurement of the position of a stellar body will be made on one date . Then , some time later ( most often half a year , AFAIK ) , another measurement of that stellar body 's position will be made . From these measurements , and the known distance between the earth 's position at the first time of measurement ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":33,
+    "Human_text":"When a computer writes something to a disk , like when you 're installing something , it has to do two things . First , it has to write the data to the disk . This takes up most of the time . Then it has to make a record in a special part of the disk called an index that says \" the data you 're looking for is over here \" so that the disk can remember to find it again later and so that it is n't ov",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":34,
+    "Human_text":"Historically , pigeons carried messages only one way , to their home . They had to be transported manually before another flight . However , by placing their food at one location and their home at another location , pigeons have been trained to fly back and forth up to twice a day reliably , covering round - trip flights up to 160 km ( 100 mi).[2 ] Their reliability has lent itself to occasional u",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":35,
+    "Human_text":"Spacial dimensions can be described by the coordinate system that is used to define them . In these coordinate systems you have axes that help to denote where points are in that system . A two dimensional system would have 2 axes , x and y , which are at 90 degree angles in relation to each other . An example would be a graph . Any two dimensional shape could then be described using sets of coordi",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":36,
+    "Human_text":"Visual perception in the outer regions of our visual field reacts mostly to movement and changes rather than clear vision ( so you would see a danger in the corner of your eye and be able to react to it ) . Focusing on the center of the screen pushes the subtitle into the outer region of your field of vision , making it trigger that effect - ie you have an instinctive urge to look down any time it",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":37,
+    "Human_text":"5 m down is not what would be called a small hole if we are talking about working round a property . Depending on the type of ground you are digging it could start to collapse on itself after abuot 1 m , sometimes even less . Do n't fuck around with something like this if you do n't know what you are doing .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":38,
+    "Human_text":"If you screw the motherboard directly to the case without using the stands then the exposed metal circuitry on the back of your motherboard would be directly touching the case , which is usually also made of metal , thus causing a short - circuit .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":39,
+    "Human_text":"Space does n't have time zones so everyone agreed to say that if you want to do something at a specific time you use GMT ( the one which is used in Britain and is +00 ) so any time that people use in space is going to be in GMT",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":40,
+    "Human_text":"An itch is caused by a molecule ( Neuropeptide Natriuretic Polypeptide B ) that is released by a nerve cell which triggers a system in our bodies telling the brain that you have an irritation on some area of your skin . Sometimes the nerves are stimulated by an actual itch and sometimes they are stimulated by reactions to chemicals in our bodies ( like Histamine ) . It 's really hard to say exactl",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":41,
+    "Human_text":"Basically , so that you can identify which provider issued the card ( and the CC processer can tell who verify the number with ) . 1 . The first digit identifies the provider ( AMEX ( 3)\/Visa ( 4)\/MC ( 5)\/Discover ( 6 ) ) 2 . The next six digits ID the issuing bank ( Chase \/ BofA \/ Capitol One ) . It usually identify what \" brand \" of card you 're using ( all Target CCs will have similar ID number",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":42,
+    "Human_text":"There are two measurments of blood pressure . Systolic is a measure of blood pressure when your heart actually beats and pumps blood . Diastolic is the blood pressure between each individual pump . They are measured in units of mm Hg . This unit of measurement is basically saying \" if mercury in a tube were under this much pressure , how high would it go ? \" Higher means more pressure . They are n",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":43,
+    "Human_text":"Solar panels are basically huge , super - thin diodes . Literally . They are a thin layer of P type silicon sandwiched together with a thin layer of N type silicon . The normal function of a diode is to only allow electrons to flow one direction . Electrons can move from the N type silicon to the P type silicon . But once across the border , they can not move back . However , there is a price to p",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":44,
+    "Human_text":"If I may paraphrase him : Act only on the maxim , which , if you had the power , you would make universal . Therefore before you do anyhting ' bad ' like lying or cheating , think of how things would be if everyone did that .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":45,
+    "Human_text":"Dinosaurs are a specific clade of reptiles , meaning they all share a common ancestor . Primates , for example , are a clade of mammals ; all primates share a common ancestor and mammals that predate or are n't descended from that ancestor are not primates . Dinosaurs were a very diverse group , but their main similarity betraying their relationship to each other is that they held their hind limbs",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":46,
+    "Human_text":"The main theory is the \" peacock theory \" , for lack of a better term . Basically , everyone has their own identity , and wishes to locate others with similar identities . How do we do that ? By wearing certain clothing , speaking certain ways , frequenting certain areas , etc ... If I was gay , I would be very interested in making sure that other gay people could detect that I was gay too . So , ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":47,
+    "Human_text":"Coffee is traditionally brewed by having water forced * through * the coffee grounds , rather than just having them chill out inside the water . It is possible to brew coffee the same way as you brew tea , but it results in a distinctly different taste , and not one that most people like .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":48,
+    "Human_text":"You remember your dreams vividly as soon as you wake up , but you begin forgetting immediately . Keep a journal next to your bed and the second you wake up , start writing down what you just dreamt about . Eventually you will remember your dreams in full detail and even begin to dream lucidly ... which is pretty damn awesome .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":49,
+    "Human_text":"Best guess : Poor ROI . To make any chemical substance , you need to set up a lot of equipment . This means buying new equipment , renting a place to put it , and staffing a team . My best guess is that investors are wary of investing in a chemical project that only produces one very controversial drug . The last company that made it stopped for brand image reasons , and there is constant politica",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":50,
+    "Human_text":"It was 2 hours of explosions . It had very well choreographed fights and special effects . The plot , while pretty barebones , did n't fall into the usual pit of trying too hard and becoming stupid . The characters were interesting enough that you could actually care about a few of them , and the ones you do n't care about were at least pretty entertaining . It did n't get bogged down with a contr",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":51,
+    "Human_text":"because normally people do n't have the money or available credit to buy cars the way they buy groceries . Car dealerships have to see if anyone is willing to loan you $ 25,000 to buy something .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":52,
+    "Human_text":"All of the heavier elements were fused together from lighter elements inside dying stars . Those stars exploded , and that material eventually became us . We are star - stuff , as Carl Sagan liked to say .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":53,
+    "Human_text":"They normally redact certain parts of the documents they leak where the information does n't reveal anything useful , and could potentially put people in danger . The example of this is informant 's names . If the cable has the name of someone who informed , they could suffer reprisals , and having that information published does n't really help the world in anyway , so they do nt publish it .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":54,
+    "Human_text":"It 's not bad to have a numerical standardization , especially when the alternative is the bewildering plethora of Pentagon acronyms . I 'm expecting a weapon to be acronymed TOEJAM sometime in the near future . In the nuclear submarine program , the naming conventions work as follows : * All * nuclear submarine types are called Type 09- < Roman numeral indicating generation > < variant(optional )",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":55,
+    "Human_text":"Scars are like when you have to sew together a hole in your teddy bear . Your skin is like the fabric . Once you cut it , you 're not able to put it back together perfectly . A scar is like the little bumpy sewing line . Now why do n't you go watch Spongebob , so mommy can finish her glass of silly juice ... sorry it 's getting too real . EDIT : I kind of skirted your question . They do n't heal a",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":56,
+    "Human_text":"\" Rape culture \" is a pretty wide ranging term , but it basically boils down to the idea that society , or portions of society , views the act of rape as insignificant or even trivial . Common examples below : Prison rape : How many jokes show up in pop culture about criminals getting raped in jail ? How many cops on TV shows remind a suspect that they 're going to get raped if they wind up being ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":57,
+    "Human_text":"A lot of women actually do shave their arms ! Also , Some girls have lighter hair on their arms then they do on their legs .. Making it pretty pointless to shave them .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":58,
+    "Human_text":"I 'm surprised no one has said this yet , but in addition to good faith in the company and recognition of the brand , these advertisements also make job seekers more likely to apply for the company , thus making a more competitive applicant pool .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":59,
+    "Human_text":"I 'll try to use some examples : 3\/4 is mostly used in waltz . It has a very easily recognized \" hum - pa - pa \" rhytm . [ The first seconds make it clear ! ] ( URL_1 ) 2\/4 is mostly used in marches . It 's steady , marching tempo , and goes a bit up and down every beat . [ From 15s you should recognize it ] ( URL_0 ) . 6\/8 may look like 3\/4 , but its rhytm is very different . It 's a bit like a c",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":60,
+    "Human_text":"It 's probably a survival skill that has been deeply planted in our subconscious so we do n't give off a smell while asleep and vulnerable . Much like how a cat buries it 's own pee and poop in a litterbox . Or it could be learned from childhood when Mummy would turn the firehouse on me if I peed the bed . Only took one lesson to learn that .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":61,
+    "Human_text":"Because it can then triangulate your location using different wifi networks . Wifi networks tend to be more concentrated and numerous than cellular networks so it can get a more precise location .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":62,
+    "Human_text":"Species - A species is a group of organisms capable of interbreeding and producing fertile offspring . Domestic dogs are a single species ( Canis lupus familiaris ) . Domestic cats are a single species ( Felis silvestris catus ) . Modern humans are a single species ( homo sapiens sapiens ) . The difference between a pit bull terrier , a poodle and a basset hound are superficial , these are identif",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":63,
+    "Human_text":"Supposedly , it 's the first syllable uttered in Vedic mythology . Basically , the first sound made so it 's holy , and whatnot . Also , when you say Ommmmm in the bathroom with the fan on , sometimes you feel it resonating in your head and it 's an awesome feeling . Only works with a loud fan though . Try it when you shower .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":64,
+    "Human_text":"because your in a metal tube thousands of feet in the air going hundreds of miles an hour with thousands of parts controlled by two people you do n't know .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":65,
+    "Human_text":"In the domain of physics and probability, a Markov random field (MRF), Markov network or undirected graphical model is a set of random variables having a Markov property described by an undirected graph. In other words, a random field is said to be a Markov random field if it satisfies Markov properties. The concept originates from the Sherrington\u2013Kirkpatrick model.\nA Markov network or MRF is simi",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":66,
+    "Human_text":"They threw it on a fire ( just because it happens to burn well ) and realized that it made them feel nice . The Greeks , for example , did n't actually \" smoke \" like we do now . They 'd get in a tent and throw a shit - ton of hemp on the fire , and the whole place fills with smoke and everyone gets high , like a hotbox . Do n't try this at home , please , carbon monoxide is no bueno . It does n't",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":67,
+    "Human_text":"The thyroid hormones, triiodothyronine (T3) and thyroxine (T4), are tyrosine -based hormones produced by the thyroid gland that are primarily responsible for regulation of metabolism.",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":68,
+    "Human_text":"Do you enjoy having those arenas in your town ? How about the waves of tourists and fans that come in town to see the stadium and catch a game ? How about the benefits to local businesses ? Stadiums are expensive but reasonably good investments . Also the tickets do n't go to the city ... they go to the teams . You 're paying for the right to watch them perform , not the right to sit in the stadiu",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":69,
+    "Human_text":"Previously worked at a car dealership and still work in the automotive industry and currently lease a vehicle . There is a lot of wrong comments in this thread . Let me give you some clarification . - Whether you Lease or Purchase a vehicle unless you write a check for the car the bank OWNS the car . Not You . - Leasing is another way to finance the vehicle where you are paying a little extra to r",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":70,
+    "Human_text":"I do n't see why this should be NSFW , since sexuality is a legit field of study and all , but ... ( also , not ELI5 , but too lazy to try and do that ) Dr. Kinsey wrote what is known as the \" Kinsey Report , \" which is made up of two books , * Sexual Behavior in the Human Male * and * Sexual Behavior in the Human Female * about sixty years ago . In these , he extolled his findings which were extr",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":71,
+    "Human_text":"They 're play calls and audibles . When you hear a defensive players number being called out its because they are suspected to blitz through the O line . Other times it 's \" hey fuck that guy right there \" or \" I fucked that guys wife last night right before she went home to fuck him \" .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":72,
+    "Human_text":"A neural network is a mathematical model of brain cells ( neurons ) that are connected together . When one neuron is activated it sends a signal to other nearby neurons . When the signal reaches a certain treshold , it will fire a signal to the next neurons down the stream . \" Neurons that fire together wire together \" . This can be described mathematically by adding weights to different variables",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":73,
+    "Human_text":"Genetic programming . Remember how you latched onto your mom 's boob for your first meal ? OF COURSE NOT . But you did , because it was genetically programmed that you had an instinctual latching - on process to get that milk into you ( or , alternately , from a bottle if you were n't breast fed ) . Animals are the same . They bust out of the egg when their genetics tells them it 's time to based ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":74,
+    "Human_text":"There are lots of people giving opinions on this here . You must absolutely make a distinction between opinions and the law . Your not disapproving of an action does not actually make it legal . There are plenty of things that some - most - people do not necessarily think are immoral , that some - most - people do n't believe cause harm , and yet are still illegal . Creating copies of someone else",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":75,
+    "Human_text":"To elaborate a bit more than to avoid hitting it . You 'll notice when you rest your left hand on asdf , that your fingers are n't fully vertical . More than likely your hand starts to make a claw like position as if you were holding a baseball . Naturally , the bigger your hands , the more curved your fingers will rest . This leads a lot of people to hold their pinky on A at an almost 45 \u00b0 angle ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":76,
+    "Human_text":"There is [ NAFTA ] ( URL_1 ) , and [ CAFTA ] ( URL_0 ) . We like the free trade aspects that the EU has , but we do n't want to give up any sovereignty or decision making authority the way that the EU countries have .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":77,
+    "Human_text":"One other thing to note is how the upscaling fills in the new pixels that have been added to the signal . There are several ways of doing this . One great way to see how your device upscales is by giving it a black and white checkerboard signal : BWBWBW ... WBWBWB ... BWBWBW ... : : : : : : : : : : : My first example is what has already been mentioned by others : BW WB turns into : BBWW BBWW WWBB ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":78,
+    "Human_text":"Is n\u2019t it simply because we do n\u2019t pay attention ? If you put down your keys absentmindedly it \u2019s like overlooking something obvious : You \u2019ll remember neither because you did n\u2019t pay attention .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":79,
+    "Human_text":"Diesel is more expensive , the gap in fuel efficiencies are closing ( I can get a 40 or 50 mpg gasoline car , who cares about diesel , then ? ) , and diesels do n't handle stop and go driving like gas cars do . It 's that last one that disqualifies diesels for me ; Diesels are built with looser tolerances and take time to get to operating temperature . They incur much more wear and tear because yo",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":80,
+    "Human_text":"> Do companies save money by not mixing it ? Yes . They can streamline their production by having a single pipe of unflavored yogurt to fill cups ( that already have different flavors in them ) . If you want to make smallish batches of various flavors you just add those cups to the assembly line rather than than swapping out pipes of pre - mixed flavored yogurts . This saves time , time is money ,",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":81,
+    "Human_text":"In a dog 's mind : hey it 's my master speaking ! Is he talking about * * COOKIES * * ! ? Meanwhile the radio playing music does n't sound like you saying cookies at all .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":82,
+    "Human_text":"The basis is really simple : Imagine you have a computer program that will allow you to encrypt a text file or digital document by using either one of two passwords , so that once you freely choose any one of the two passwords for encrypting , then decryption can only be performed by using the other password . That is : you ca n't both encrypt and decrypt by using the same password ; once you use ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":83,
+    "Human_text":"Anyone can make a cryptocurrency . But very , very few people have the technical and mathematical know - how to make it secure , the business savvy to make it fly , and the persistence to keep it going . Basically , you need to come up with a fundamentally secure way for people to anonymously transfer wealth , come up with a way to make that wealth worth something , and convince a lot of people to",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":84,
+    "Human_text":"As an exercise , go and buy yourself a bottle of 100 % grain alcohol , and then buy the cheapest whiskey \/ scotch you can find , and taste them side - by - side . I 'm pretty sure you 'll taste a difference . Note : Alcohol consumption may lead to alcoholism , pregnancy , or a good time .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":85,
+    "Human_text":"Francois Henri \"Jack\" LaLanne (September 26, 1914 - January 23, 2011) was an American fitness , exercise , and nutritional expert and motivational speaker who is sometimes called \"the godfather of fitness\" and the \"first fitness superhero.\"",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":86,
+    "Human_text":"MVNO 's are based on the internal accounting principle that every cost shall be applied to the business unit that consumes the good or service . Basically , think of Sprint ( which is the major network company that serves MVNO 's ) as two companies : a wireless network operator , and a wireless service retailer . The network operator builds , maintains and operates the network . The wireless servi",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":87,
+    "Human_text":"Advocacy is a political process by an individual or group which aims to influence public-policy and resource allocation decisions within political, economic, and social systems and institutions.",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":88,
+    "Human_text":"Our telescopes ca n't really focus on something so small . Jupiter takes up way more space in the sky than the lunar lander does . Lunar orbiting probes [ have taken pictures of the landing sites ] ( URL_0 ) in recent years though .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":89,
+    "Human_text":"The simplest answer is that the trees are alive , and pieces of wood are pieces of dead trees . A tree has an entire internal system that regulates water and nutrients , and gets rid of excesses and wastes . The wood is dead , and therefore will begin to breakdown like any other life form after death .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":90,
+    "Human_text":"I asked this exact question to a college roommate who was high at the time . He looked me dead in the eye from the place on the couch from which he had n't moved all day , motioned with his hand from his head to his toes , and said \" like a rock \" .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":91,
+    "Human_text":"Timbre . An A on either is not a single frequency , it is a \" fundamental \" and a bunch of multiples of that frequency , called \" overtones \" . Together they make up the timbre of that instrument . Different instruments have different overtones . Of course , they may also have other characteristics , such as the rate of attack ( how the volume grows from zero to full amplitude ) and decay ( the op",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":92,
+    "Human_text":"There is one part of the movie where the protagonist uses the landing rockets to blast herself along an orbit to get to a space station . This is not possible . you ca n't just accelerate in an orbit to get to a different place in the orbit . she would of gone to a higher orbit by speeding up . Also she cries in space and the tears ball up and fly off of her face . the tears would stick to her fac",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":93,
+    "Human_text":"A group of people have created the clock as a reflection of total world events , where midnight is the end of the world . As world events change , the group decides what changes get made to the clock , but I do n't think it 's been more than alike 5 minutes for my entire life . Started in the late 70s I think , and when all is quiet , it 's like 5 or 6 minutes to , but now with nuclear war possibl",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":94,
+    "Human_text":"It is the difference between correcting a skewed picture in photoshop ( where you have the info , it is just misshappen ) and trying to make a blurry picture sharp where you just do nt have the raw material to work with ( no matter what CSI tries to do with \" enhance \" )",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":95,
+    "Human_text":"A lot of produce does go through some preliminary washing before it reaches the store . Rinsing is more so to remove whatever any employee , customer , etc . who handled it had on their hands . But water by itself is a very effective solvent , and will actually remove a lot of things .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":96,
+    "Human_text":"Good geography . There basic theory is : For \" civilization \" you need specialization . you need people who can think , study science , make metal , etc . We also need to stay in one place so we can build libraries , workshops , laboratories and the infrastructure to support them . To do this you need efficient farming . Efficient farming depends on good crops , ones that provide a lot of nutrient",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":97,
+    "Human_text":"It 's not really a population boom per se but a gradual increase . Population booms are mostly a thing of the past ( outside sub - Saharan Africa ) . Two factors are immigrants and birth rates . The US takes on a lot of immigrants , more than any country on earth , both legal and illegal . They take on a million legal immigrants and an unknown amount of illegal immigrants a year . Canada , it shou",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":98,
+    "Human_text":"If you do it correctly , you can use a lot of things you buy not just at home but also for your business , making their purchase a deductible business expense . From having a home office , to storing work materials in the garage , to purchasing stuff at Lowe 's or Home Depot or Office Depot , to the miles you drive your car , many things you do are deductible from taxes for business use . Just do ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":99,
+    "Human_text":"They do n't hate each other ( well , not too much ) . They all hate Japan . During the second world war , little of east asia was left untouched by them , and they committed war crimes left right and center everywhere they went as if it was their god given responsibility . The animosity continues to this day partly because the government actively stokes it ( in the case of the PRC , for example ) ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":100,
+    "Human_text":"Since running wheels are n't a naturally occurring phenomenon for rodents , they probably see the wheel as a stimulating form of play . Scientists recently discovered that un - caged wild rodents voluntarily ran on excerise wheels when given the chance ! URL_0",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":101,
+    "Human_text":"You have a lemonade stand . People originally came to you and bought lemonade at $ 1 a cup . Then someone had the brilliant idea that they would buy future cups from you , like coupons , because they think you are going to get more popular and raise your price . This catches on and eventually you are selling future cups for $ 2 ! Every one of those future cups is debt on you . People catch on that",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":102,
+    "Human_text":"If a nation does this , it makes \" lets shoot down this passenger jet because it looks like an invasion \" a reasonable decision . That puts everyone who flies commercial aircraft at risk in a way that will be played on CNN for several weeks . You know who flies commercial aircraft ? Everyone but the poor and the super - rich . This includes US Representatives and other members of lower houses of p",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":103,
+    "Human_text":"I BELIEVE : Usually , there are sensors in the road under the pavement that sense the weight of the vehicle , and then that info goes to the stop light . At least that 's how it is where I 'm from .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":104,
+    "Human_text":"Almost . In principle , any F4 lens should produce the same image brightness . The 4 is a ratio so a 50 & # 8239;mm lens at F4 will have a 12.5 & # 8239;mm aperture whereas a 100 & # 8239;mm lens at the same setting will have a 25 & # 8239;mm aperture . In practice , the glass elements in a lens block some of the light so that lenses with more elements will be dimmer . Prime lenses are generally s",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":105,
+    "Human_text":"Well ... for one the whole point of the thing is that * it is n't a state or a part of a state * . Its a neutral ground . Beholden to no state so that the Federal Government ( representing all 50 states ) can conduct its business . So the reason no state ( basically Virginia and Maryland ) is trying to annex DC is because that 's the whole point of the place and the other 49 states might get pisse",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":106,
+    "Human_text":"\" Know \" in terms of \" came across pieces of hints that maybe form patterns possibly leading to those informations \" ? Yeah , maybe . But it 's not like Lance 's doctors kept a tidy journal of all the cheatings on the internet somewhere , you 'd have to look at thousands of hints ( in a sea of millions of useless informations ) that may ( or may not ) lead you to believe that yeah , maybe there 's",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":107,
+    "Human_text":"While it can be thicker , just about any hair on your body feels really nasty when it 's just poking out of the skin . Once you let it grow past a few millimeters it starts to feel softer .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":108,
+    "Human_text":"Because every time a page with an ad gets visited they get revenue , so if you have to go through four different pages , each with ads they get more money , it 's basically the same as clickbait",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":109,
+    "Human_text":"The way a hard disk drive works is that it has tiny little sections on it . Those sections you can imagine as being little magnets that either face left or face right . A head can change which way the little sections or facing , or read which direction they are currently facing , and it uses this to create the ones and zeros that store information . When a large magnet is passed over the drive fro",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":110,
+    "Human_text":"You would definitely die . Your body can not effectively filter the salt out of the saltwater and so your mental state would deteriorate , and you would dehydrate and die .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":111,
+    "Human_text":"Some bryophytes do have specialized tissues for the transport of water; however since these do not contain lignin , they are not considered to be true vascular tissue.",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":112,
+    "Human_text":"They 're conserving energy . Many spiders are ambush predators . They build a trap ( their web ) , and attack prey that falls into the trap . Moving around unnecessarily burns energy they could instead conserve to keep them alive longer between prey , and attack more energetically when it arrives .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":113,
+    "Human_text":"Chances are , there 's nothing particularly hazardous on the seat itself regardless . A toilet seat is not a hospitable place for bacteria to hang out . If anything , they 're a peace - of - mind device .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":114,
+    "Human_text":"4k has 4x as many pixels as 1080p , when you downsize , you average 4 pixels into a single pixel . Any noise or incorrectness \/ pixel is 1\/4th of the result , instead of the whole result . Say you have , in 1080p , a single pixel of noise . And in a 4k video , you also have a single pixel of noise The pixel in the 4k , is 1\/4th as significant , and as such , does n't have as great an effect . So w",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":115,
+    "Human_text":"In the US , if you 're under 18 and you commit murder , you 're often tried as an adult , but the laws very by state . 2600 kids , as young as 10 , that have been sentenced to life without parole for heinous crimes at that age . Beyond those extreme instances , the USA has a juvenile justice system , or ' juvie ' , where kids are put and attempts at rehabilitation are made .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":116,
+    "Human_text":"It 's important to note that diplomats can be kicked out if they do something particularly bad . They can also be tried at home . Diplomats are carefully chosen to represent their country . . They 're not the sort of people that rob liquor stores and get into bar fights . That sort of behavior would get them recalled back home and their replacement would be left to apologize profusely . Most diplo",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":117,
+    "Human_text":"In fact , Canada operates slightly more oil refineries per capita and has more oil refinery capacity per capita than the United States . Fuel is expensive in Canada for a variety of reasons . First , the Canadian dollar is weak , and oil is a globally traded commodity . Second , average taxes on Canadian gasoline are quadruple that of the United States . Third , there is some evidence that vertica",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":118,
+    "Human_text":"Laws differ greatly on this depending on where you are . Some states allow for it and some do not , and in those that do , what you are allowed to do varies greatly . There can be a fine line between citizens arrest and false imprisonment or kidnapping .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":119,
+    "Human_text":"Japan has for decades been the only fully modernized country ( by American standards ) that is not based on Western European culture . So we respect it , and can identify with the country 's modern , wealthy , educated , industrialized lifestyle and outlook ; yet we find a great deal that is different and therefore interesting . We enjoy French culture for similar , if less dramatic , reasons . Th",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":120,
+    "Human_text":"The two main reasons are because of perceived motivation and effect . There are many people who feel that voter ID laws are actually designed to lower turnout within minority groups , who are less likely to have such identification . They point to a near complete lack of charges of voter fraud , and say that voter ID must actually be aimed at voter suppression . The most serious challenges to Vote",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":121,
+    "Human_text":"Think of blowing up a balloon . Use a marker to designate a point on the surface of the balloon we will call Earth . Draw another point A close to Earth and another point B farther away . When you blow up the balloon , point A does not seem to move away from Earth as fast as point B because it is closer to Earth than point B. That is , the farther something is away from Earth , the faster it seems",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":122,
+    "Human_text":"Freedom of choice , even if it is a poor choice - you should still be able to make that choice because theoretically if you only hurt yourself then no one should tell you not to do it . In Australia the tax from the sale of tobacco keeps increasing to offset the bulk of the cost of medical care from smoking related illnesses . Smokers are not eligible for some major surgery such as lung transplant",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":123,
+    "Human_text":"Rent to own is n't a scam per se .... but there is very little chance it would benefit you in the long run . Places that do rent to own are generally designed for people who have no other options , but still want to \" have \" stuff . Odds are the average customer has less than stellar credit ( ranging right down into terrible credit ) Usually what happens is people will rent to own a bunch of stuff",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":124,
+    "Human_text":"I would n't say that is the case . After young kids get hurt , they look to adults for how they should react . Often in America , parents rush over and make a big deal out of it , and kids think that is the reaction they should have . In South America , I once saw a kid come back home from playing soccer with a broken arm . Which he broke 2 hours ago , but he just wanted to keep playing .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":125,
+    "Human_text":"The rocks are called Ballast . > It is used to facilitate drainage of water , to bear the load from the railroad ties , and also to keep down vegetation that might interfere with the track structure.[1 ] This also serves to hold the track in place as the trains roll by . [ from here ] ( URL_0 )",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":126,
+    "Human_text":"Testosterone is a hormone , meaning a little messenger that tells cells what they should do more of . Some things testosterone does are good in normal quantities . Being the main male hormone , it makes you more male - like . You get more energy , stronger , more muscle mass , hairier , self - esteem , aggression , blood pressure . Conversely too low will get you the opposite of all of that : less",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":127,
+    "Human_text":"you know when you wipe and it is clean first try that little victory is what reddit gold is something so unexpected you think to yourself wow i m great",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":128,
+    "Human_text":"Not generally , no . Wealth is not a finite resource . Wealth is created through various means , including industry and ingenuity . So the more people you have in an economy , * in general * the more wealth that economy can produce in a given amount of time , simply because there are more people doing things that generate wealth .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":129,
+    "Human_text":"It 's basically down to two main factors : 1.- How many people were left in the mall ( According to several sources , 3000 ) . 2.- The size of the venue ( It 's a big mall ) . You got ta have in mind that this happened in one of the richest zones in Nairobi . The place was frequented by foreign residents and tourists . These men ( al - Shabab militants ) entered the mall on sarturday , evacuated m",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":130,
+    "Human_text":"The short version is to make moral choices based on the question of \" if everyone did this , it would better society \" , and refuse to do things which if everyone did it would be bad for society . It does n't work well going into very specific and morally - neutral choices ( no one would become a doctor because if everyone was a doctor there 'd be no food ) , but it works when you must decide a mo",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":131,
+    "Human_text":"The milky way galaxy is basically a fried - egg shape and we 're out in the white somewhere . Also , it 's almost completely empty space . Imagine being in a cloud of fireflies : you can see pretty much all of them because of the space between them . Same thing with stars in the galaxy . Talking about the specific photo you 've linked , you 're looking towards the centre yolk ( to continue the egg",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":132,
+    "Human_text":"I have to laugh at this question . Asked in explain like I 'm five why you get more hungover now than you did five years ago . * Hello there little alcoholic five year old . I do n't know what could be causing these worsening hangovers that have gotten worse since you were an alcoholic fetus . *",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":133,
+    "Human_text":"like you said , a force is applied . if you hold an object in your hand , the electrons of your skin repel the electrons on the surface of the object with enough force to counteract gravity .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":134,
+    "Human_text":"They are interchangeable . \" finna \" is a southern US idiom , everywhere else says \" gon na \" . edit : Since you are not a native speaker , I would suggest you never say \" finna \" because it is solely used by US southerners and sounds very unusual when anyone else says it . Unless , of course , you are saying it as a joke .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":135,
+    "Human_text":"Elijah J. McCoy (May 2, 1844 \u2013 October 10, 1929) was a black Canadian-American inventor and engineer, who was notable for his 57 U.S. patents , most to do with lubrication of steam engines.",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":136,
+    "Human_text":"Sympathy is when you feel sorry for someone . Empathy is when you feel emotions similar to what you observe people feeling . They go hand - in - hand . Sympathy is more of an active , external social response , while empathy is an internal response to the experiences of others .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":137,
+    "Human_text":"City police patrol within city limits . Sheriffs are elected officials for each county and they hire their own deputies . At least in Kentucky , the sheriffs patrol the county and can make stops \/ serve warrants within the cities as well . State troopers hold the most power . They are assigned to multi county radius \u2019s but have jurisdiction throughout the state and seem to enjoy overriding lower p",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":138,
+    "Human_text":"Paypal is essentially an organized and trusted middleman between two parties . Back when eBay started out , believe it or not , it ran on the honor system and did okay , but not great for the most part . You won an auction then actually sent the seller a money order . S \/ he would get it and send you your item . Of course you could make a fake account sell something that never existed and wait for",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":139,
+    "Human_text":"This is a pretty good question , considering . I 'll give it my best . The president , as head of the executive branch , is given broad authority to execute the laws passed by congress . Congress ca n't be expected to pass a law , for example , to quickly prevent travel to a country based on an outbreak of a disease . Thus , a law is passed that gives the president authority to restrict travel , w",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":140,
+    "Human_text":"There 's a term for this , originally French : > L'esprit de l'escalier or l'esprit d'escalier ( \" staircase wit \" ) is a French term used in English for the predicament of thinking of the perfect reply too late . So you only think of the witty response as you are leaving via the staircase .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":141,
+    "Human_text":"In the philosophy of mind, mind\u2013body dualism denotes either the view that mental phenomena are non-physical, or that the mind and body are distinct and separable. Thus, it encompasses a set of views about the relationship between mind and matter, as well as between subject and object, and is contrasted with other positions, such as physicalism and enactivism, in the mind\u2013body problem.\nAristotle sh",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":142,
+    "Human_text":"Money is a medium of exchange , used to avoid the problems of a barter system . Before money , if I had a chicken and I wanted some apples , I had to find some guy who wanted a chicken and had some apples . It 's time consuming and restrictive . What if I only wanted two apples ? Could someone take half a chicken ? Money gets rid of these problems though . If I have a chicken and want some apples ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":143,
+    "Human_text":"Purdue University is a public land-grant research university in West Lafayette, Indiana, and the flagship campus of the Purdue University system. The university was founded in 1869 after Lafayette businessman John Purdue donated land and money to establish a college of science, technology, and agriculture in his name. The first classes were held on September 16, 1874, with six instructors and 39 s",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":144,
+    "Human_text":"Pretty universal ? You 've seen lots of people falling from heights ? What you 're describing is a person flailing around to try and orient themselves in the air . As humans we 're not very good at it .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":145,
+    "Human_text":"There are two kinds of queens ( the English language does not distinguish the two unfortunately so this is where the confusion is from ): Queen regnant and Queen consort . Queen consort is the wife of a king , Elizabeth is NOT a queen consort since her husband is not a king . Queen regnant on the other hand is basically a female king , Elizabeth is a queen regnant because her father used to be the",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":146,
+    "Human_text":"Gasoline is known as a hydrocarbon . That means it has hydrogen atoms and carbon atoms . The car engine combines this with oxygen from the air and heat to create combustion . The outputs are carbon dioxide ( carbon and oxygen ) and water ( hydrogen and oxygen ) .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":147,
+    "Human_text":"Pretend that linux , windows , and mac are * * toy lego cars * * . The * * windows car * * comes with all the pieces you need , and a standard set of instructions . It 's pretty easy to put together , does n't cost too much , and is really popular ( you can easily get someone else to make a windows car for you ) . Because it is so popular , all the additions you can add on to your car like a laser",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":148,
+    "Human_text":"Lets be clear here . If you take one chicken , and one fish , and kill them both at the same time , you are just as likely to contract a disease from one as the other . However , chicken processing is gross . Same with pork and beef . Fish is kept cleaner for the intent of being sushi , and is even more expensive if it is sashimi grade . You can do the same for any meat . Steak ~~Tar Tar~~ tartare",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":149,
+    "Human_text":"If you consider that petrol ( sorry , British ) is exploding dead dinosaurs , it 's not actually that expensive ! In the UK , the overall tax on petrol is over 50 % , which is pretty common for most European countries ( Luxembourg is the only example I can think off the top of my head ) , which explains why it 's so expensive . The cost of petrol is related to the cost of oil . The cost of oil is ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":150,
+    "Human_text":"Mobile games have the best potential to be profitable because they cost far less to develop than traditional PC or console games and everyone has a phone . A few companies have figured it out ( including those people at Candy Crush who sue anyone that uses the word \" saga . \" They 're the new monster cable of frivolous lawsuits )",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":151,
+    "Human_text":"In casual speech , \" philosophy \" is a word we use to refer to an idea or belief we might follow . Example : > \" I do n't want to make trouble unnecessarily . My philosophy is that I wo n't tell the boss what you 're doing , but if asked I will explain what I know \" . But in the context you are asking about , \" philosophy \" is not simply a way you do things , it is a way of organizing ideas . Some",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":152,
+    "Human_text":"How drunk do you want to imagine being ? After one drink ( assuming you 're on pints of beer , here ) there 's not a really noticeable difference . if you were doing some kind of reaction test you might find yourself scoring slightly lower , but of yourself you wo n't feel any different . But because these things start to work before you realise them , you will be a little more relaxed ( alcohol i",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":153,
+    "Human_text":"There are a [ lot of tools ] ( URL_0 ) we can use to determine what the core of the Earth is made of . The article linked specifically mentions measuring the velocity of seismic waves that pass through it and determining its density through the way it transmits sound waves . Also remember that iron is one of the most abundant elements in the universe , and that a lot of asteroids are made up of ir",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":154,
+    "Human_text":"My simple response is that you just do n't understand unless you play games like WoW , Ultima Online , or , to a lesser extent , Civilization . A more detailed response might be hashed out by someone who can elaborate on any sort of study that 's been done on the subject of addictive gaming , but I tend to believe that any game with an element of \" leveling up \" is what gives it its addicting appe",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":155,
+    "Human_text":"It 's because leather serves an important purpose , and would be difficult to replace as a material . Leather is used as a strong , very flexible protective material in gloves , boots , jackets , pants , anything you wear really . It resists tears very well but it 's still possible to cut into manageable pieces . It 's thin , but it still holds heat very well . It 's entirely waterproof , as well ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":156,
+    "Human_text":"you 're \" smoking \" stuff that is n't just raw air . too much exposure to things that are n't are ( cigarettes , paint , dust , exhaust ) can mess your lungs up . the more recommended way of using cannabis per Sanjay Gupta ( the CNN doctor ) is to vap it , since there is no smoke and similar to using nebulizers which create a fog \/ mist that you inhale and is less harmful to the lungs",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":157,
+    "Human_text":"from wikipedia : > Dimples may be caused by variations in the structure of the facial muscle known as * zygomaticus major * . Specifically , the presence of a double or bifid zygomaticus major muscle may explain the formation of cheek dimples . from what i was told in anatomy class , everyone has dimples but it usually disappears over time due to the zygomaticus major muscles . genetics plays a la",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":158,
+    "Human_text":"It 's multi - level marketing . Another redditor whose name is lost to the ages made the following astute observation : * * The MLM business model depends on convincing customers that they are employees . * *",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":159,
+    "Human_text":"The heat and pain from spicy foods is caused by [ capsaicin ] ( URL_0 ) , which is n't soluble in water - so it just washes over it and spreads it around without removing it from your mouth . The best thing to drink to get rid of the burn is cold milk .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":160,
+    "Human_text":"> According to tradition , the birds and the bees is a metaphorical story sometimes told to children in an attempt to explain the mechanics and good consequences of sexual intercourse through reference to easily observed natural events . For instance , bees carry and deposit pollen into flowers , a visible and easy - to - explain example of male fertilisation . Another example , birds lay eggs , a",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":161,
+    "Human_text":"ATMs are actually less costly for banks than withdrawals from human tellers . Remember when all ATMs were free Pepperidge Farm Remembers . Edit Prior to 1988 , there was no surcharging of cardholders by ATM owners in the U.S. In 1988 Valley Bank of Nevada began surcharging \" foreign cardholders \" ( meaning holders of ATM cards not issued by Valley Bank ) for withdrawals at Valley Bank ATMs located",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":162,
+    "Human_text":"After WWII Germany was occupied by the British , Americans , French and Soviets . Because the Soviets had their own idea of a proper country , they helped german communists to found a state , called the GDR ( DDR in german ) . The American , British and French helped other Germans to found a state , too . Called the Federal Republic of Germany . The leaders of the GDR noticed that many citizens we",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":163,
+    "Human_text":"It becomes a debt to that person 's estate ( which is cleared up during probate ) . If that person had no assets \/ money and the person was n't married , the debt would be written off .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":164,
+    "Human_text":"According to Old Testament Mythology , Satan was technically one of God 's servants , he was essentially God 's attorney for the prosecution , testing God 's people to see that they are still worthy of God 's favor ( see book of Job ) . Satan literally means \" The Accuser \" . The Serpent in the Garden of Eden that tempted Eve was not identified as Satan until much later . Later developments in Chr",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":165,
+    "Human_text":"The first world countries are just the ones that aligned with the US during the cold war . Second world countries are what we call ones that aligned with the USSR . Third world countries are everyone else . By definition everyone ca n't be a first world country .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":166,
+    "Human_text":"A vision processing unit (VPU) is (as of 2018) an emerging class of microprocessor; it is a specific type of AI accelerator, designed to accelerate machine vision tasks.",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":167,
+    "Human_text":"I 'm pretty sure it 'll retain the color because the DNA in those grafted cells wo n't change . Much like the palm of my left hand still grows tiny hairs years after the skin graft from my upper arm . \/not a doctor , but I 've been to way more than my share for skin issues",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":168,
+    "Human_text":"You * can * have them on . You ca n't use them as a phone . URL_0 One , cell towers are n't designed for phones 30,000 feet in the air that can hit multiple towers . Two , on a long flight having people babbling on phones would cause some passengers to politely invite others to step outside .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":169,
+    "Human_text":"In college we did an experiment in the lab where we were told to lick a piece of paper that had a horrible taste on it . People could either taste it or not and it turned out to be a genetic difference . I ca n't remember the gene that was affected but this chemical taste is present in brussel sprouts . So that explains peoples adverse reactions to brussel sprouts and why I feel they 're the most ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":170,
+    "Human_text":"The danger from watching welding in person is from the overwhelming amount of photons that enter your eyes . When a video camera captures a scene , the photons hit a sensor that registers a digital value for the color and the intensity of the light . There is an upper limit on how high the number the represents the intensity of the light is . So once the light hits or exceeds that upper limit , th",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":171,
+    "Human_text":"It 's called the bitrate , and it determines how much data is used each second to describe the song 's sound . * kbps * is * kilobits per second * . 8 kilobits = 1 kilobyte . So a song that 's 320 kbps uses 40 KB of data for every one second of sound . A song that 's 128 kbps would use 16 KB of data to describe the same thing . How can they make the exact same song smaller and smaller ? By cutting",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":172,
+    "Human_text":"So you have your disk , it looks like this : ---------- Then you save file A to it ( A = size 4 ): AAAA------ Then you save file B to it ( B = size 2 ): AAAABB---- Then you save file C to it ( C = size 2 ): AAAABBCC-- Then you delete file B : AAAA -- CC-- Then you save file D to it ( D = size 4 ): AAAADDCCDD D is fragmented , and it requires time for your hard drive to read data from various parts",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":173,
+    "Human_text":"The victory for dominance comes when the an animal has established dominance over the other . Whenever the other animal feels powerless to continue , the dominating animal will psychologically feel being \" in charge \" . The other animal might feel \" under control \" , and thus he \/ she is n't dominative . How an animal \" knows \" who won the fight is how their minds make them feel . Dying is not nec",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":174,
+    "Human_text":"Not every element . The hydrogen on Earth could be primordial ( produced in the first few minutes of the universe ) . The helium on Earth is mostly from radioactive decay ( any helium that was here to begin with has long since escaped Earth 's atmosphere ) . But any element heavier than lithium - aka most of them - was produced in stars .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":175,
+    "Human_text":"[ Nature : ' Ecology : A world without mosquitos ' ] ( URL_0 ) \" Yet in many cases , scientists acknowledge that the ecological scar left by a missing mosquito would heal quickly as the niche was filled by other organisms . Life would continue as before \u2014 or even better . \"",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":176,
+    "Human_text":"When the volcanic dust is bellowing out of the volcano , it is bumping into itself a lot . Elections get bumped off , collect , and cause a strike . Exactly like a regular cloud , but with solid particles rather than liquid ones .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":177,
+    "Human_text":"These other people have good answers , but always remember that rats and other test animals metabolize food differently than we do . Dogs , for instance , can be poisoned to death by eating a few grapes , sugarless gum , or some chocolate . So while it is useful to test things on rats first , it does n't tell us the whole story as to whether the substance would be toxic to humans as well .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":178,
+    "Human_text":"Because they 're told from the time they 're born that their own hair is ugly and messy and difficult . This starts from their own mothers \/ grandmothers and aunts talking about \" good hair \" meaning less tightly curled afro hair and from then to school teachers telling them the same thing . Every image they ever see of beauty after that is long flowing straight Eurasian hair . All their lives . I",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":179,
+    "Human_text":"Because the show is not made to produce talent . It 's simply made in a particular slump of the entertainment industry to prove a point to both viewers implicitly and to others in the industry explicitly that normal people can perform at this level and consistently do . It furthers the popularity of particular genres and becomes a platform and medium to debate what is popular and what is not and e",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":180,
+    "Human_text":"Reddit actually [ provides a nice way for bots to do stuff on the website ] ( URL_0 ) ( this is called an [ API ] ( URL_3 ) ) . A bot is basically a computer program that acts a bit like a regular user . It can do things normal users do ( comment , vote etc . ) but follows whatever rules its programmer sets . Take the unit converter bot . It would use the Reddit API to get a list of all the posts ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":181,
+    "Human_text":"To answer that question is virtually impossible if you were not part of the culture . Take for example anything you love . Especially things that other people do n't \" get \" . A large part of it is the nostalgia associated with it . It is a game that meant so much to people as children that it sticks with them through life . Of course that now brings up the question of WHY it meant so much to them",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":182,
+    "Human_text":"Edit \/ disclaimer : it looks like I mucked up whatever I thought I learned from a dietitian . So do n't take any of the below seriously . Short point is yes all calories are mostly metabolized . The end . I asked a registered dietitian this same exact question two weeks ago . She gave a lengthy answer that I 'll try to summarize here : Yes your body will metabolize all of those calories , it takes",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":183,
+    "Human_text":"It 's easier to control the heat . If I go from high heat to low heat on a gas range , the change happens instantly . If I go from high heat to low heat on an electric range , I have to wait at least a few seconds for the heat to actually change enough to slow down the cooking process . The reverse is also true -- hot takes longer to get on an electric range . Gas is instant .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":184,
+    "Human_text":"Every computer on a network needs to have a unique identifying number , which is the IP ( Internet Protocol ) address . Actually , the IP address is n't the address of the computer itself , but rather the address of the computer 's network interface . A router is a device that connects computers to each other . As such , it has lots of interfaces ( sockets ) into which you can plug a network cable",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":185,
+    "Human_text":"Imagine you and 11 friends decided to start your own micro - nation on an isolated deserted island . For currency , you decide to use a box of monopoly money you guys brought along . So you all have about the same amount of monopoly money , and shopping for coconuts , you think to yourself , ' Ya , i think a coconut is worth so - and - so percent of my money and income . ' But then one day , you f",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":186,
+    "Human_text":"You are remaining motionless with your mouth closed for a long time and the bacteria in your saliva never gets swallowed or circulated , so it stays in your mouth and brings on the staaaank .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":187,
+    "Human_text":"Generally its faster because both lanes of traffic can continue moving , albeit at a reduced rate . However , if three or four cars in lane A refuse to let a car out approaching from lane B , then lane B has to stop . Stop - starting takes far longer than slowing \/ merging ; so both lanes are effected .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":188,
+    "Human_text":"Since the first question is still up for debate , but the second question is more answerable - I will start there . Sleep itself is broken into 5 stages and they do nt have real names so I 'll just paraphrase them a bit - 1 ) Light Sleep 2 ) Moderate Sleep 3 ) Deep Sleep 4 ) Deep Sleep Part 2 5 ) REM Sleep . Now the one we want to talk about is REM Sleep . REM stands for Rapid Eye Movement . Now w",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":189,
+    "Human_text":"you seem a bit confused . We do not use direct current for power transmission over distance , which was the focus of the war of the currents . There is too much loss due to resistance , too much risk of fire , and too much risk of electrocution . Edison was heavily invested in DC . Setting up local power generation stations , a necessity for DC transmission , would have been very very expensive ..",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":190,
+    "Human_text":"When you breath in , you lower the pressure above the water - just like sucking on a straw . So the water sort of gets sucked up a tiny bit , but , the tube that goes up to the bowl provides a much lighter option to suck up . Instead of picking up the heavy water and moving it up the bong , the vacuum picks up the much lighter smoke and air . So then those smoke bubbles come through the water and ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":191,
+    "Human_text":"In any closed system , you can not create new energy ( first law of thermodynamics ) . You always lose a little energy ( second law of thermodynamics ) . Therefore a machine can not make more energy than it uses or even enough to keep itself operating .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":192,
+    "Human_text":"Because for the majority of human history men had no real rights either , at least not most of them . Feudalism and serfdom ruled the world for a very long time , and this gave real power only to the nobility . ( And even then not always all of them . ) Lord Bumblewant or whatever owned some large fief , and if you lived on that land you were one of his people . You had to pay him rent and he he w",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":193,
+    "Human_text":"Why do we have generals when we have a President ? Why did Europe have Lords when they had a King ? The Emperor was the head of state , but during the Shogunate periods ... he was really just a figurehead . The Shogun held real power by basically being the strongest warlord in the country . Feudal Japan ( the Sengoku Jidai , or Warring States Period ) was basically a bunch of feudal lords ( Daimyo",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":194,
+    "Human_text":"URL_0 > One common theory , as to how handedness affects the hemispheres , is the brain hemisphere division of labor . Since speaking and handiwork require fine motor skills , its presumption is that it would be more efficient to have one brain hemisphere do both , rather than having it divided up . Since in most people , the left side of the brain controls speaking , right - handedness predominat",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":195,
+    "Human_text":"You dislike it for the wrong reasons . No Child Left Behind means that teachers ' salaries depend on how their students preform on standardized tests . Obviously , this means that all good teachers migrate away from poor schools where their pay will be docked .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":196,
+    "Human_text":"I 've been waiting my whole reddit life for this . I 've worked at my families dry cleaners for 12 years . u \/ firstworldanarchist is correct . The clothes do get \" wet \" from a chemical called PERCHLOROETHYLENE . There are many different chemicals that dry cleaners use , but this was the most common one in the 80 's and 90 's , but is being phased out due to possible environmental concerns . The ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":197,
+    "Human_text":"They are n\u2019t exact copies of each other , because one X comes from the mother and one X comes from the father . If one has a mutation or a disorder , the other may pick up the slack , so to speak",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":198,
+    "Human_text":"There was a research about dogs recognising angry faces and happy faces . So basically when we yell at them . They realise that they 've pissed us off . And then they go sit in a corner till we cool down . Sometimes they are SO DAMN cute when they do that you feel like comforting them immediately .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":199,
+    "Human_text":"I 'm not sure with drinks but I know food in jars is often sealed whilst it is hot . I have done this when making jam . The cooling food and air inside the container contracts sucking down the lid and improving the seal .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":200,
+    "Human_text":"Swiss banks rarely disclose information to foreign governments . So the IRS rolls up all ' we think this guy is evading taxes tell us how much money he has in your bank . ' To which the swiss bank will reply ' lol nope '",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":201,
+    "Human_text":"While 26 U.S. soldiers were initially charged with criminal offenses for their actions at M\u1ef9 Lai, only Second Lieutenant William Calley , a platoon leader in Charlie Company, was convicted.",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":202,
+    "Human_text":"There is a rule in chemistry , for every 10oC you raise the temp of a reaction , you double the reaction rate . The reverse is true , the colder , the slower the reaction . Since it is so cold in winter , the metabolic reactions ( the plant cells eating ) are so slow , that a small amount of food is enough to hold the plant for the whole winter .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":203,
+    "Human_text":"Yes . Game shows are actually one of the cheapest types of shows to put on the air , which is why so many are on daytime TV rather than prime time , and why they constantly launch new ones . Each of those 30 second commercials probably pays the studio at least as much as the entire winnings of people during that episode .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":204,
+    "Human_text":"I have no sources but I read once that it 's because paper 's surface is really rough , even though it appears smooth to touch . When you cut yourself with paper you 're not causing a straight cut , you 're devastating your tissues . And your nerves feel it all .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":205,
+    "Human_text":"My time to shine . The term \" Rockefeller Republican \" comes from Nelson Rockefeller , New York Governor ( and later Vice President ) in the 70 's . The term is largely archaic . Rockefeller republicans were moderate republicans who were fiscally conservative but socially liberal . ( I 'm speaking in very broad terms here , I know . ) They supported equal rights , a well - regulated economy , labo",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":206,
+    "Human_text":"In statistics, classification is the problem of identifying which of a set of categories (sub-populations) an observation (or observations) belongs to.  Examples are assigning a given email to the \"spam\" or \"non-spam\" class, and assigning a diagnosis to a given patient based on observed characteristics of the patient (sex, blood pressure, presence or absence of certain symptoms, etc.).\nOften, the ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":207,
+    "Human_text":"> Many photorealistic games are indistinguishable from actual photos , except when human faces are there . What exactly is the difference ? The difference is * you * . Humans are highly adapted to recognize slight differences in human faces because it is very useful for humans to tell humans apart . Crows for example might look pretty much all the same to humans but crows have no trouble telling e",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":208,
+    "Human_text":"A few different reasons . One is that they feels so much internal pain ; from depression , abuse ... ( the list is limitless ) that they want to feel physical pain to take away from the emotional pain . Mental pain is so hard to deal with and it 's abstract ; a cut is real they ( and others ) can see it . One client explained the blood dripping like their body crying because they had no tears left",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":209,
+    "Human_text":"The way these fast food items are created is specific to what humans crave . Certain amount of salt here , certain amount of sugar there and you create a taste that taps into and exploits what humans already naturally crave . For example , the way candy mimics the appeal of fruit and then exploits it . Fruit used to be our candy . Why do n't we eat less sugar ? because it 's addicting . Sugar has ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":210,
+    "Human_text":"Turkey has a unique constitution for the region where it is located . It is completely secular and even has a requirement for the military to remove the government if it crosses the line of church and state . This has happened several times in the past , most recently in 1997 , although that time it was just an order of \" Step down or we will force you out \" and they stepped down . After stepping ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":211,
+    "Human_text":"There is a blind girl at my high school . For the first few weeks of school she has a person help her to class . Once she gets the feeling for her environment , she knows when she is near her classroom , and then gets close to the wall and feels around for the braille . I am guessing this is pretty similar to other situations with blind people . They know their environment and can feel around for ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":212,
+    "Human_text":"The Earth is getting slightly larger because of meteorites hitting the surface , however the volume that the meteorites add is minuscule . The reason we have to dig for artifacts is more to do with the shifting of the Earths surface through natural erosion , human intervention , weather etc .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":213,
+    "Human_text":"I think that this warning is more geared toward higher quality knives . Such knives generally have a high concentration of carbon steel , which has a greater tendency to rust . A dishwasher will leave water on such knives long enough for them to start forming rust spots .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":214,
+    "Human_text":"Electrons do not move at the speed of light , they are pretty slow actually . What propagates at the speed of light is the electric field that makes the electrons move . Every conductive material is pretty much filled with movable electrons , like a garden hose that \u2019s already full of water . As soon as you turn on the water , it comes out the other end because there \u2019s already water there that is",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":215,
+    "Human_text":"Being worried about reproduction more has to do with societal structure than the existence of the race ; who is responsible for raising the child ( an expensive prospect ) and what rights of inheritance the child has are very important parts of many societies .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":216,
+    "Human_text":"For the average joe who just has a little bit of money they want to see grow , your only smart option is index funds . They typically track the market , or at least a segment of the market , as a whole , and move up and down with it . Historically , index funds almost * always * beat out individuals who try to ' time the market ' and buy individual stocks and do things manually . If the money is f",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":217,
+    "Human_text":"The function of the cylinder is to contain a little gasoline explosion , directing the force out in on direction ( moving the piston ) . A round shape is the strongest shape for containing the explosion , because it has no weak corners to crack , or weak flat areas to bulge out . A linear shape ( a cylinder rather than a sphere ) is necessary so that the piston can then move up and down .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":218,
+    "Human_text":"In statistics, polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modelled as an nth degree polynomial in x. Polynomial regression fits a nonlinear relationship between the value of x and the corresponding conditional mean of y, denoted E(y\u00a0|x). Although polynomial regression fits a nonlinear model to ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":219,
+    "Human_text":"Alpha and beta are letters of the Greek alphabet and meta is a prefix in Greek that means ' after ' . But on reddit you would see them in another meaning : alpha - a male that attracts women , leader beta - opposite of alpha meta - something that references itself",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":220,
+    "Human_text":"It \" knows if there are n't differences \" between things by computing the md5 sum for whatever you 're comparing and seeing if those are equal . For example if we wanted to compare the numbers > 10293 > 10222 we could compute a hash for both of these . Lets say the hash is \" Add up all the digits , and the number in the 1s place is the hash \" So 1 + 0 + 2 + 9 + 3 = 1**5 * * , so the hash is 5 like",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":221,
+    "Human_text":"Best way of explaining it that I 've heard : Let 's use the example of a simple conversation with a friend . Non - ADHD people are able to block out distractions easily and focus on the conversation . Their brain takes a quick look at anything triggering one of their senses and says , \" okay , this is n't important , carry on with what you were doing . \" For someone with ADHD , it 's way different",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":222,
+    "Human_text":"They have sensory ganglia that directly are hooked up to motor neurons . Essentially , they do n't have to think to to be able to choose to fly . Also they have an \" organ \" known as halteres that help them stabilize in flight , like a gyroscope so they can change direction quickly and effectively . Also , when you swat at them with your hands , you 're pushing the air out of the way , so you 're ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":223,
+    "Human_text":"The sites are not a scam , but they are underhanded . Basically you buy a pack of bids ( think of tokens ) , and you use those to bid . But you do not get them back if you do nt win the item . So lets say an iPad goes up . I want to bid , i buy a pack of tokens at $ 1 a pop . * I place a bid -1 $ * Someone places a bid . * I place another bid -$1 And so on and so forth . In the end each time i bid",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":224,
+    "Human_text":"Most people take out a loan to buy a house and they use the house as collateral for the loan . This means that if you do n't pay the loan , the bank can take the house and sell it to get its money back . These loans are called mortgages . They have certain terms , such as the interest rates and over how many years the loan has to be paid off . When you refinance you find a lender who loans you the",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":225,
+    "Human_text":"Your dad 's sperm . Your DNA ( the blueprints to build a complete human ) , is broken up into like little chapers , called chromosomes . Everyone has two copies of all 23 chapters . Or you have 23 chromosomes from mom ( the egg ) and 23 from dad ( the sperm ) for a total of 46 ( you need all 46 for everything to work but that s another ELI5 ) . Now of those 23 ( remember you have a copy of each ) ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":226,
+    "Human_text":"Because most Christians are descended from gentiles , not Jews . Jews never really expect non - jews to follow their traditions . Their holidays are more cultural than scripturally based . It makes no sense to celebrate Moses liberating the Jews from Egypt , for example , if you 're not a Jew . In short , most Christians are n't actually God 's chosen people , so they do n't have the extra rights ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":227,
+    "Human_text":"Short answer : It is actually BECAUSE they have less friction . Less friction = less wasted energy . \" A turning steel wheel in contact with a steel rail reduces by 85 - 99 % the amount of rolling friction than a rolling rubber truck tire has in contact with an asphalt or concrete pavement . \" [ Long Answer ] ( URL_0 )",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":228,
+    "Human_text":"It is included in the government budget therefore the taxpayers pay it . You just do n't realise it because you do n't get an actual bill from the hospital \/ clinic . I 'm Canadian and fairly young and I 'm just starting to realise how lucky we are to have \" free \" health care . Sure if you have money in the states you can pay to get your care faster but if you do n't have money you are either goi",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":229,
+    "Human_text":"The Uncertainty principle is a principle which states that the velocity and position of a subatomic particle can not be known at the same time . This is due to properties of wave functions and fourier transformations that is out of scope for ELI5 . It has nothing to do with the development of teleportation because that is impossible . Nothing can travel faster than light .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":230,
+    "Human_text":"Actually , yes . There are , or at least were , A and B batteries . However they did n't get much use as most of the products have been designed for AA , AAA , C , or D batteries . Edit : Here 's a short article on B size batteries : URL_0 The story for other types is probably similar .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":231,
+    "Human_text":"A few reasons : 1 ) muzzle velocity . The theoretical speed of a projectile is much greater , providing better range , accuracy , and penetration . 2 ) projectile size and cost . Using EMF to launch a projectile instead of gunpowder dramatically shrinks the inventory of firing charges and shells you need to keep on a ship . 3 ) safety . Removing most of the explosives from a ship that may itself g",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":232,
+    "Human_text":"I like your question because it is one of those things that , for all practical purposes , is a simple answer -- but it is a simple answer due to a lot of complicated parts . First off , when it comes to trying to understand ownership of \" intellectual property \" ( property that you ca n't physically touch ) , it is important to approach it layer - by - layer . Here , for example , we are talking ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":233,
+    "Human_text":"But if Civilization gets slaughtered or decimated by illness who are they going to tell their history ? Our knowledge of history is based mainly on documents . If we do n't have them or ca n't decipher them ( as was long the case with hieroglyphics ) we wo n't know much . Also do WE document our history for future civilizations ? Probably not that well .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":234,
+    "Human_text":"Most victims of starvation die of dehydration . when the body is starved of nutrition the stomach starts wasting away ( Atrophy ) weakening the perception of hunger and thirst . Combine this with diarrhea and organ failure and you have a solid case of dehydration .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":235,
+    "Human_text":"Nice try , Kim Jong ! Seriously though - [ Here is a report from the Congressional Research Service that gives the fundamentals . ] ( URL_0 ) Its a bit dated , but you get the point .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":236,
+    "Human_text":"It could be people involved with the creation and distribution of the album . If they are working on the songs or creation of the discs , they obtain copies of the music . I imagine this makes up most of the people that leak songs before a full release . Some radio stations or certain individuals may receive advanced copies due to things like album release parties where participants usually receiv",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":237,
+    "Human_text":"Heat flows from areas of high concentration to low . When you compress a material you by extension concentrate its heat , and when you expand it you disperse it . Therefore by compressing a material and letting it shed heat to the exterior of an area , you can then bring it inside and expand it to absorb heat from the interior . By alternating the compression and expansion of something like freon ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":238,
+    "Human_text":"That 's a question with a ton of detail . There are two types of sludge treatment ; primary and secondary . Most of these processes require a press of some sort or a drying bed to assist in removing water content . After that , the sludge is most often used as a soil treatment , just like manure , after another facility processes it . As far as water , there are multiple types of treatment , plant",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":239,
+    "Human_text":"It depends on the system . Some use an instant runoff , where if nobody has a majority , the candidate with the most number of first place votes is eliminated , and those ballots are reallocated according to their second places votes . The process is completed until someone has a majority . It would help minor parties because the major parties spend a lot of time campaigning against the other part",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":240,
+    "Human_text":"Most likely [ petrichor ] ( URL_0 ) , the smell of rain on dry soil . If it 's a thunderstorm , it could also be ozone , which forms when the lightning essentially fuses oxygen together .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":241,
+    "Human_text":"I recently learned how people get surnames in Iceland which is pretty interesting . Daughters get their surname after their mother 's first name and dottir is added to it ( meaning daughter in Icelandic ) and sons get their surname after their father 's first name + son . E.g if your name is Bill and you get a son then his surname will be Billsson in Iceland which literally means Bill 's son . So ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":242,
+    "Human_text":"There 's a few reasons : Lets use the USA as our home country 1- Location . It can be difficult to move boats long distances , as well as expensive because of treacherous waters and longer distances We get 1 barrel from the us for 50 $ and sell to china for 60$. Venezuela gets 1 barrel from their ground for 20 $ and sells to the us for 40$. However , because they have to bring that oil all the way",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":243,
+    "Human_text":"Doctor here typing on my phone , so excuse any typos 1)Nausea and vomiting and very common side effects , and it 's way more convenient and pleasant for everyone if nothing comes out . 2 ) before I explain , it 's important to realize that the esophagus and trachea are right next to each other , with only the epiglottis to cover the trachea when you swallow , ensuring that food and water go into t",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":244,
+    "Human_text":"The simplest way to store a list is just to have all the elements right next to each other . This makes things fast and all , but there 's an important disadvantage ; if you later decide you need to add on to the list , you have to make a new one completely from scratch , because there may not be any room left next to the list . So there 's an alternative called a linked list . Each element of a l",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":245,
+    "Human_text":"Imagine you have a bucket of water with a hose connected to the bottom . You fill this bucket with water - and naturally water wants to flow out the hose at the bottom . If you redirect the hose so it points slightly upwards , the water appears to shoot out , purely due to gravity . This is how fountains work . They are fed by a reservoir of water that 's higher in elevation .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":246,
+    "Human_text":"Several candidates . There is island inhabitants of Niihau in Hawaii , Population 100 or something . There is various Amazonian tribes , usually only a village worth or so . Small , you mean population ?",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":247,
+    "Human_text":"Few years working a company chain - Deli counter , simple answer is that is bacteria that is forming on the meat . Indicating that is indeed spoiling . Why you may be encountering that is . Meat generally lasts a little more than a few days . 5 I 'd say is a good average . Sliming can occur earlier if 1 . ) Bad refrigeration on either you or the Deli when they sliced it . 2 . ) The Deli may of use",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":248,
+    "Human_text":"A bacteria is a living cell , it has the ability to exist as it 's own being . A virus on the other hand , is not living , it exists only to replicate and has no ability to survive , as it is not living . The comparison is like that of a robot to a human . The robot ( virus ) is such that it can only do certain things , when it procreates , it will never make anything better than itself in terms o",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":249,
+    "Human_text":"Imagine you bought a dvd player that plays movies , and along with it you bought some movies . Imagine that this dvd player needs to have an internet connection once every 24 hours or it does nt let you watch any of your movies that you purchased fair and square . What 's more , these movies will ONLY work on your personal dvd player . You ca n't take them to a friend 's house to watch . You ca n'",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":250,
+    "Human_text":"What s with the jokes ? Basically , they are a supposed organization which conspiracy theorists claim control the world secretly , staying in the shadows , pulling the strings . People claim that they control currency values , what gets made for TV and Cinema , that they control the news , that they manipulate world events , that they are the reason for most wars in modern times . Theorists point ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":251,
+    "Human_text":"\" Fair use \" is n't something that is clearly defined . It is something that is determined in court if you are sued for copyright infringement . Only a qualified attorney could give you advice as to whether something could be considered \" fair use , \" and even then , the final decision is up to the courts of law in the U.S. There are four factors that go into the consideration of whether use is fa",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":252,
+    "Human_text":"The stadium seats 85,000, making it the third largest stadium in the NFL by seating capacity .The maximum capacity of the stadium, including standing room, is 105,000.",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":253,
+    "Human_text":"Basically you have a conscious and sub - conscious mind . The first is where your thinking takes place , the latter is all behind the scenes . When you sleep , your conscious mind basically shuts down . Your subconscious mind , without any input from your thinking \/ perceiving mind , takes over and the result is a dream . As you wake up , your conscious mind boots back up and takes the helm , but ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":254,
+    "Human_text":"Input : a continuous signal , like a voltage Output : a binary number that indicates the measurement of the voltage . Usually a number of bits , like 8 bits or 32 bits . A tape measure is a simple example of an analog to digital converter ( a physical one ) . You give it a physical distance , and it tells you the closest numerical measurement of that distance .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":255,
+    "Human_text":"Cholesterol is used by the body to build cells and transport nutrients . So some is good and needed . The problem comes from too much of the \" low density \" or LDL type . This stuff is big and fluffy and has a tendency to get stuck in arteries and blood vessels . This makes your heart have to pump harder and wears it out faster .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":256,
+    "Human_text":"Did your parents have the Birds and Bees talk with you ? Seriously , when you leave people alone in relatively fertile land with nobody around , people reproduce very quickly . It helped that most immigrants were rather healthy . After all , sickly people do n't really have the constitution to move to another continent and build a farm out of nothing . Also , people moved to the USA constantly . C",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":257,
+    "Human_text":"* * * We can * * * . We can find trace amount of pigmentation compounds in ( extremely rare ) remarkably preserved fossils . Comparing these pigments with modern birds and reptiles , we can presume same compounds = same colors . However , due to the scarcity of these remains , at this time it 's only been possible with a handful of dinosaurs so not enough to draw definitive conclusions for all din",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":258,
+    "Human_text":"Stirrups , well - disciplined cavalry archers , and the ability to live off the land easily . Supply lines were n't an issue , and Mongol cavalry could outmaneuver and outgun any adversary they faced .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":259,
+    "Human_text":"I 'm no expert on this subject , but here 's what I 've gathered . A company called Nielsen Media Research is responsible for tracking what programs people are watching . Basically , Nielsen gets 5000 volunteer households to be a representative sample of the entire U.S. Nielsen then uses meters to track when those households have their TVs on and what programs they are tuned in to . They use a com",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":260,
+    "Human_text":"Contraceptives actually go back thousands of years but they were n't as effective as modern birth control pills or condoms . They used primitive contraceptives but they also become pregnant frequently and STDs were very common .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":261,
+    "Human_text":"When you get sick it 's likely you 'll experience nausea ( vomiting ) , fever(sweating ) , and the shits(Diarrhea ) . So you need to keep hydrated to replace any fluids lost there . If you do get dehydrated it can put a lot of stress on your body , which will make you feel worse and take longer to recover . Cconsidering it 's so easy to rehydrate all doctors will tell you to keep yourself watered ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":262,
+    "Human_text":"Linguist here , and all these anecdotal answers are frustrating me because none of them are giving you an accurate or complete answer . The best examples we have of this situation come from [ feral children ] ( URL_1 ) who have grown up deprived of language contact . Do n't listen to anyone who says that pathological cases make bad examples , because they are our only non - anecdotal examples . Le",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":263,
+    "Human_text":"Non - combat role does not mean no danger . It simply means you are n't expected to be at the front . Things like IED 's and insurgent attacks do n't go away just because someone 's official job is in a non - combat role .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":264,
+    "Human_text":"It 's not smooth . To us , yes it is for sure , but to insects who have tiny legs , it 's not at all . If you look at [ glass under a microscope ] ( URL_0 ) , you 'll notice imperfections in the surface . It 's those imperfections that insects use to climb the windows .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":265,
+    "Human_text":"You 're not going to get an answer here . If anyone on reddit knows anything about this , they are a spy . If they are a spy , they will not tell you . This is our daily dilemma .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":266,
+    "Human_text":"[ Here 's a picture ] ( URL_0 ) that includes a fired hollow point bullet . As you can see , its tip has opened up or \" mushroomed . \" This phenomenon means that after contact , the bullet has a larger , more jagged surface . This enlarged surface causes the bullet to hit more stuff inside the target 's body , damaging more tissue . The other effect of the change in shape is that the bullet become",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":267,
+    "Human_text":"Technically they can - I 've seen Blue Screens as well as Green ones . Usually you stick to a color that contrasts and does not blend in with the live props - e.g. if you used white or black , you would be unable to use anything white or black in the scene . by using a particularly vibrant green , it makes it easier to set up a scene where you do n't have to worry about someone 's necktie accident",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":268,
+    "Human_text":"Depends on just how old they are . In the case of 3000 year old pots , we might date them using cultural symbols we know to be from a particular time period or though material dating methods like carbon dating . Fossils , which are much older , are usually dated by dating the rock in which they are embedded ( which in turn can be done using known layers or radioactive dating of things like uranium",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":269,
+    "Human_text":"They were filmed in HD . Films have been filmed at a higher resolution then TVs could handle for a long time actually . Right now for instance the hobbit is being filmed at like 5x the resolution of 1080p I believe . It will be like 20 years before our TVs will beable to show off all that sweet hobbitness . ( I think this is the case for these facts , if i m wrong someone can correct me . )",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":270,
+    "Human_text":"The reasons I was taught at school why they * belonged * to Argentina afaik were that they are inside our continental shelf . All I know that we started a war with UK for them in 1982 , but our government was in fact , a dictatorship , they fed people false news about us winning and that everything was going in our favor . Here 's a wall of text for your reading pleasure : URL_0 What do we think a",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":271,
+    "Human_text":"An armoured car is an armoured car , they do n't pull them out for nothing so it 's already obvious you 're doing some valuable cargo anyway ... or maybe just moving it to pick up some valuable cargo . So you 're already advertizing it , may as well advertize your company while you 're at it . It 's not like they 're robbed much anyway .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":272,
+    "Human_text":"TL;DR for \/u \/ TotalEklypz 's article : CARFAX buys info from insurance companies and other sources . Some insurance companies have a non - disclosure agreement , where they will not disclose information about your car and its accidents and other insurance companies are willing to sell that information to make money .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":273,
+    "Human_text":"It 's not easy to track currency . A lot of countries such as Luxembourg and Switzerland have very secretive ( what they call \" private \" ) policies about their accounts . Countries such as the US and UK do not have the jurisdiction or the means to investigate currency within another nation 's sovereignty . Many countries have co - operation agreements with each other , but Switzerland and Luxembo",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":274,
+    "Human_text":"I work for a Marine Science Centre , so I ca n't speak for Zoos , but whenever a large marine mammal passes away we either haul them out using fork lifts or cranes . Usually we 'll notice a deterioration in their physical health months or even up to a year beforehand , and so would move them to a separate \" quarantine \" pool to give them proper treatment or end - of - life care , and this pool can",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":275,
+    "Human_text":"You have to meet two criteria in order to be counted as \" unemployed \" : 1 . You have to not have a job ( duh ) . 2 . You have to be actively * * looking * * for a job . So all the 16 , 17 , 18 - year old highschoolers who are n't trying to get jobs are not in the workforce , but they 're * also * not unemployed . Counting the number of people who do n't have jobs is n't really accurate , because ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":276,
+    "Human_text":"To start , of the 6 examples you gave , three are n't types of government , two are basically the same thing , and one is more of a class of government . But I shall press on . * * Types of government * * * Anarchy [ No government . Marxist communism falls here ] Pros : The pros are mostly ideological , individualism taken to it 's extreme . Cons- Nothing preventing any crime , impossible to organ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":277,
+    "Human_text":"Gottfried Wilhelm (von)[a] Leibniz[b] (1 July 1646 [O.S. 21 June] \u2013 14 November 1716) was a German polymath active as a mathematician, philosopher, scientist and diplomat. He is one of the most prominent figures in both the history of philosophy and the history of mathematics. He wrote works on philosophy, theology, ethics, politics, law, history and philology. Leibniz also made major contribution",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":278,
+    "Human_text":"It has its roots in the human desire for \" pair bonding \" . In other words , two parents have an easier time and easier success in raising children than a single parent alone does . This causes an evolutionary pressure for animals to develop a mechanism that keeps them together long enough to raise the children until they can take care of themselves . As for why marriage specifically , as opposed ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":279,
+    "Human_text":"Current College Sprinter here , I think I got this one . If you look closer alot of Caribbean Countries and Islands do end up actually producing very good sprinters . Explained to me by a Jamaican coach : If you are a young Caribbean \/ Jamaican resident , your future is most likely low paying tourism related jobs . Similar to An inner city kid playing basketball , boxing , or football , Sprinting ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":280,
+    "Human_text":"For one , Snowden 's information was n't really new . It was publicly known that these NSA spying programs have existed since the Bush administration , Snowden basically just reminded people that it was still happening under Obama . Any denial on the government 's part would have been pretty easy to shoot holes in .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":281,
+    "Human_text":"Think of it like this , your given lighting strike , while super powerful is also limited . It only has so much power in it . We will call that power , charge . That charge we will say acts like a bag of marbles . You throw that bag of marbles on the ground then they will spread , but they will not spread across the world . They may get stuck in a corner or slow down , or what not . The surface it",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":282,
+    "Human_text":"The film was nominated for five Academy Awards including Best Actor (Joaquin Phoenix), Best Actress (Reese Witherspoon, which she won), and Best Costume Design ( Arianne Phillips ).",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":283,
+    "Human_text":"Because investors expected an even worse loss . These losses were n't a surprise ; the stock price already factored this in . EDIT : To be more accurate , the earnings report was better than expected , including statements by the CEO . I 'm being told that the actual dollar amount was worse than expected , but the overall report ( plans for the future , etc ) was better .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":284,
+    "Human_text":"Your asking essentially the chicken or the egg . Example , Did you stomach evolove first and create your brain and extremites to feed it . Or did your brain grow your stomach to power it . Har to say , as without something to feed the stomach , we would have no stomch . Without the brain to run everything , we would n't have anything worth feeding .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":285,
+    "Human_text":"It 's a long story but here 's a simple summary : In Los Angeles , California there 's an area called South Central LA . Long ago the predominately black youth in this area were bored so they tried to venture out and join some local youth clubs . Because they were black they were n't allowed to join and because they were from South Central they were n't allowed to leave the area with out being har",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":286,
+    "Human_text":"Because the human brain does n't have components like capacitors and resistors . The reason an EMP destroys electronic equipment is because it overloads the circuit . It produces a very sharp spike in electrical activity that overburdens the equipment - capacitors overload , resistors ca n't resist enough of the power , and electricity gets into a bunch of places it does n't belong very rapidly . ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":287,
+    "Human_text":"That would literally depend on how fresh the body is . HIV , for example , is not sensitive to cold , viable HIV have been known to remain viable in refrigerated cadavers for up to 16 days .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":288,
+    "Human_text":"The plastics in clear gun magazines have several problems , some that come to mind are as follows : The plastics have lower strenght than the stamped sheet metal . The plastic can degrade over time and have limited field service life The plastics are flammable and can burn And At elevated temperature conditions , the plastics tend to deform and fail Plus , they need a totally different manufacturi",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":289,
+    "Human_text":"So based on the quarter example here I 'll try it too . You have two quarters . I flip one , you flip one . Eventually we see that there is no correlation between which one comes up heads and which one comes up tails . No surprise . We \" rub \" the quarters together vigorously ( I 'll explain in a second ) and I keep one in my fist without looking at it . I pass the other to you and tell you to kee",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":290,
+    "Human_text":"1 : From historical trends and past performance , take the population of contenders and figure out the likeliest performance of each against the other . This is easy in a sports team oriented game or boxing match where there 's a published record and only two contending teams \/ players . It 's more complex when you have a field of racing horses . 2 : Convert the results into a percentage . So for ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":291,
+    "Human_text":"PLEASE READ THIS . What everyone else is saying is true about how vaccines build a long term immune response by developing \" memory \" cells that recognize the virus \/ bacteria in the future . BUT please remember that you are NOT covered for life with the rabies vaccine . Your doctor is incorrect in telling you this ( and you should tell him that so he does n't spread this to his other patients ) .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":292,
+    "Human_text":"Laughing is an innate human function like sneezing , coughing etc . We do n't learn how to do it and therefore culture \/ upbringing has very little if any effect on it . Asking why we do n't have different laughs from culture to culture is similar to asking why we do n't have different cough 's or sneezes .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":293,
+    "Human_text":"Wires for data is faster and more secure then wireless . As well wireless is more prone to interference then wifi . For surfing the net in your house wifi is probably fine but anything mroe serious you want wires .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":294,
+    "Human_text":"People think they 're smarter than scientists , and then hear an authority figure who 's \" just like them \" repeat some stupid debunked study that makes them feel justified in their smug belief . They then go looking for things that confirm their point of view and consciously filter out anything that challenges their world view .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":295,
+    "Human_text":"Diarrhea is the result of stool passing through the large intestine too fast and the intestine not being able to absorb all the water . Causes vary from infection , to nervousness , to too much fiber . Also , it depends on how what you 're consuming reacts with your body . Alcohol causes some people to get diarrhea because it irritates the stomach lining and your body pushes it through the intesti",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":296,
+    "Human_text":"It 's a social club for university guys . ( Girls ' clubs are called sororities ) . They are invitation - only and collect dues from members . In return , members can hang out at the off - campus private frat house and are invited to private parties , among the usual benefits of club membership .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":297,
+    "Human_text":"If you have long hair , then you may notice it getting longer faster if you trim it often . Not because of some radical reaction your hair has to it being cut , but because if you trim it and keep the ends healthy , then it stops the hair from becoming weak and breaking part way up the strand .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":298,
+    "Human_text":"Hot air has a lower density to room temperature air . This is simplifying a bit , but light will change direction when it hits a boundary between one density and another . It 's the same effect that causes mirages on a hot road or desert ( URL_0 ) .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":299,
+    "Human_text":"Right now , it is * not * independent like Singapore or Taiwan , and unless there 's a * * big * * change in Beijing , it wo n't ever be . It is difficult to predict how firm the grip the Communist Party has on power will be by 2047 , but if nothing changes then yes , it 's supposed to become like the other areas . It might still have some exemptions if that was advantageous to the Party , though ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":300,
+    "Human_text":"Lets say someone tried to teach you how to understand Japanese by giving you a book with all the rules of the Japanese language and all the words . Every time you needed to understand something in Japanese you would have to look up in that book and determine what it means in your own language . It would take you a lot longer to understand a simple Japanese sentence than it would be if it were said",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":301,
+    "Human_text":"Odds are , we originally did . Over hundreds of years of mispronunciations and bastardized spellings things like this change though . Also , I ca n't pronounce \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":302,
+    "Human_text":"No it is n\u2019t . In fact , there are benefits to washing your hair everyday . There are also benefits to washing it less frequently . There \u2019s no harm in washing your hair every day . In fact , if you do any of the following things , you should always wash your hair , or at least rinse it before going to bed that night : * Any exercise that makes your scalp particularly sweaty * Use of gels or waxes",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":303,
+    "Human_text":"It is n't bad . Microwave cooking is n't voodoo magic . It 's just a particular way of transferring heat into food . There are three ways to get food hot . There 's conduction , convection and radiation . When you heat up a pan , then plop a steak down in it , the surface of the steak that touches the pan gets really hot really quickly . That 's conductive heat . When you heat up your oven , then ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":304,
+    "Human_text":"The United States of America (USA or U.S.A.), commonly called the United States (US or U.S.) or America, is a federal republic consisting of fifty states and a federal district .The lower forty-eight contiguous states and the federal district of Washington, D.C. are in central North America between Canada and Mexico.The state of Alaska is west of Canada and east of Russia across the Bering Strait,",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":305,
+    "Human_text":"So much bad science in this page . The principal cause is quantity consumed , and unless anyone can point to studies where this is strictly controlled , this is the simplest and most likely reason . To OP : go to \/r \/ askscience and require cited sources . I 'm sure you can tag it with a layman 's ELI5 - type request .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":306,
+    "Human_text":"A DDoS ( Distributed Denial of Service ) attack is a pretty basic concept . Get a bunch of computers to pound the website with data , making legitimate traffic lag , or simply overload the hardware that powers the server . This is similar to a ' simple ' DoS attack , except that the attack comes from multiple locations , usually geographically separated . They need to be separated so that each PC ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":307,
+    "Human_text":"Because : * There are billions and billions of mosquitoes in the world and we would need to alter every single individual ( or at least kill every single one we did n't alter ) which is basically impossible * Mosquitoes need a blood meal as part of their mating process and we lack the capability to alter an organism in such a complicated way . We can insert a gene into corn that makes it make a pr",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":308,
+    "Human_text":"it depends on the animal . ants , for examples , seem to have some sort of odometer , or they count their steps . this was on npr in 2009 if i remember correctly . scientists took a control group of ants , and two altered groups of ants . the altered groups either had a small part of their legs cut off or added to after they had wandered away . when coming back , the unaltered ants found their hom",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":309,
+    "Human_text":"Most countries in the world do not have any kind of concept of unlimited free speech . The idea is that certain kinds of speech can be just as mentally harmful as violence is physically harmful , and thus they should be illegal just like violence is .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":310,
+    "Human_text":"Lenses bend light to focus it on the sensor of the camera , so it captures the image . Tilting and shifting the lens distorts how the light hits the sensor , creating those groovy shots . Shifting the lens moves the center point of the lens from the center of the sensor . While the lens only moves around a centimeter or two , it causes a much more dramatic shift in the image , as if you took sever",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":311,
+    "Human_text":"Digital clocks have a small device that vibrates in order to keep time . The clock is manufactured to know how many vibrations are in 1 second . However its never exact . It could actually be 1.0000001 seconds or 1.01 seconds or .999 seconds . So over time . Those very tiny errors add up to a couple extra minutes .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":312,
+    "Human_text":"Binary classification is the task of classifying the elements of a set into two groups (each called class) on the basis of a classification rule. Typical binary classification problems include:\nBinary classification is dichotomization applied to a practical situation. In many practical binary classification problems, the two groups are not symmetric, and rather than overall accuracy, the relative ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":313,
+    "Human_text":"It 's efficient . A pound of muscle burns a dozen or so calories a day , just to sustain itself . By only building the muscles needed for your particular lifestyle , you save a lot of calories that can then be put toward reproduction or not starving . A fisher needs mostly upper body strength , a [ persistence hunter ] ( URL_0 ) ) needs calves of steel , but if everybody got both , they 'd waste l",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":314,
+    "Human_text":"Actually the process of German reunification while extremely costly and not without its problems did go relatively smoothly . A Korean unification by comparison would be orders of magnitude harder . The price of German unification is estimated to have been over 2 trillion Euro and still be costing a tidy sum each passing year a quarter of a century later . However when Germany reunited conditions ",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":315,
+    "Human_text":"So the engine turns a stick that 's attached to a wheel called the flywheel . This is pressed up against a clutch pad , and the rotation from the engine is transferred from the flywheel through the clutch pad . When you press the clutch pedal , these two separate . The flywheel continues to spin , but ceases transferring this energy through the pad . Then you may move the shifting stick in the cab",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":316,
+    "Human_text":"It 's mostly just how wet the snow is . Light and fluffy snow has very little water in it ( which is why it 's so light ) but because there is n't too much water in it , it wo n't stick to much . More water will make it the thicker snow that 's easy to clump together . Even more water makes it slush , where it 's very clearly water - like when you step on it .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":317,
+    "Human_text":"Yes , you 're right . Fat free half and half is skim milk , corn syrup and other thickeners , and a trivial amount of cream for flavor . The corn syrup and thickeners substitute for what would normally be half cream .",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":318,
+    "Human_text":"I 'm not up on the exact biochemistry ( it 's been almost 15 years since I took high school bio ) , but basically you start out with a fat , carbohydrate or protein molecule , which are big chains of carbon , hydrogen and oxygen atoms with a lot of energy in their chemical bonds . The body has various chemical processes for breaking those bonds , the energy that is released is used to attach phosp",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":319,
+    "Human_text":"Data mining is the process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal of extracting information (with intelligent methods) from a data set and transforming the information into a comprehensib",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":320,
+    "Human_text":"When you get older , you 'll start feeling strange ; very angry and very sad and strange mixtures of the two . This is because of chemicals called hormones that your body makes to help you grow up . The book \" Catcher in the Rye \" is all about growing up . Its main character , also called a \" protagonist \" , is a teenage boy who is experiencing the full effect of hormones . As a result , he is ang",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":321,
+    "Human_text":"The main problem is faeces . Although your urine is sterile your faeces is anything but . There are many horrible diseases transmitted from human faeces . \" So i 'll just wash my hands when I shit \" I hear you say ? Well yes , definitely do that , but bare in mind that there is faeces contamination everywhere in the bathroom . On the toilet handle , the sink taps , the door handle from the guy bef",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":322,
+    "Human_text":"Numerical analysis is the study of algorithms that use numerical approximation (as opposed to symbolic manipulations) for the problems of mathematical analysis (as distinguished from discrete mathematics). It is the study of numerical methods that attempt at finding approximate solutions of problems rather than the exact ones. Numerical analysis finds application in all fields of engineering and t",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":323,
+    "Human_text":"The government has lots of money and building things creates lots of jobs as well as drives many other sectors . The houses ARE sold , I know they are empty but it 's becauset eh people buying them are investing in one of the only real \" safe \" ( debatable ) investment opportunity they have , real estate . So they buy these houses with the hope that the price will go up as the area gets more devel",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  },
+  {
+    "id":324,
+    "Human_text":"Note that the world economy would n't just up and stop one day suddenly . As it broke down , or fell apart in certain countries , the people there would still need some way to trade and conduct basic transactions ... some form of currency is always needed . Gold is seen as valuable and makes an excellent form of currency for several reasons : * It does not rust or corrode : coins and chunks of gol",
+    "AI_text":"none",
+    "label":0,
+    "model":"none",
+    "set":"test set"
+  }
+]
