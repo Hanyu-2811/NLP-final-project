@@ -11,7 +11,7 @@ from transformers import ( # type: ignore
 from sklearn.metrics import accuracy_score, precision_score, precision_recall_fscore_support # type: ignore
 
 # roberta being better model
-model_name = "distilroberta-base"
+model_name = "roberta-base"
 
 # classification labels prepared
 id2label = {0: "HUMAN", 1: "AI"}
@@ -26,7 +26,7 @@ def tokenize(batch):
         batch["text"],
         padding="max_length",
         truncation=True,
-        max_length=256
+        max_length=540
     )
 
 
