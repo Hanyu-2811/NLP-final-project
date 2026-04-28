@@ -26,7 +26,7 @@ def tokenize(batch):
         batch["text"],
         padding="max_length",
         truncation=True,
-        max_length=540
+        max_length=512
     )
 
 
