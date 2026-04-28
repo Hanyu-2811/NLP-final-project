@@ -91,7 +91,7 @@ def main():
         learning_rate=2e-5,
         per_device_train_batch_size=4,
         per_device_eval_batch_size=4,
-        num_train_epochs=4,
+        num_train_epochs=3,
         weight_decay=0.01,
         load_best_model_at_end=True,
         metric_for_best_model="f1",
