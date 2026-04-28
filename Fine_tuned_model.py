@@ -116,10 +116,17 @@ def main():
 
     # test the result
     test_results = trainer.evaluate(tokenized_dataset["test"])
+
+    # get predictions
+    pred_output = trainer.predict(tokenized_dataset["test"])
+
+    logits = pred_output.predictions
+    preds = np.argmax(logits, axis=-1)
     
     # output the result
     with open(sys.argv[4],"w") as out:
-        out.write("\n")
+        for p in preds:
+            out.write(str(p) + "\n")
 
     trainer.save_model("./final-bert-ai-detector")
     tokenizer.save_pretrained("./final-bert-ai-detector")
