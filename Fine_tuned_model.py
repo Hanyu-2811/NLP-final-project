@@ -168,8 +168,8 @@ def main():
     pmodel = ModelB()
     
     # probabilities and predictions from two other models
-    probtf, predtf = tfmodel.run(dataset["train"],dataset["validation"])
-    probp, predp = pmodel.run(dataset["train"],dataset["validation"])
+    probtf, _ = tfmodel.run(dataset["train"],dataset["validation"])
+    probp, _ = pmodel.run(dataset["train"],dataset["validation"])
     x_dev = np.column_stack([
         probtf,
         probp,
@@ -182,6 +182,9 @@ def main():
     voter.fit(x_dev,y_dev,epochs=20,batch_size=8)
     
     # create for x_test
+    #first update for test predicts
+    _, predtf = tfmodel.predict(tokenized_dataset["test"])
+    _, predp = pmodel.predict(tokenized_dataset["test"])
     x_test = np.column_stack([
         predtf,
         predp,

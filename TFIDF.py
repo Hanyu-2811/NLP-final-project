@@ -20,10 +20,10 @@ class ModelA:
         probs = self.model.predict_proba(X)[:,1]
         return probs, self.model.predict(X)
 
-    def run(self, train_df, test_df):
+    def run(self, train_df, predict_df):
         print("Running Baseline A (TF-IDF + LR)...")
         self.train(train_df)
-        probs, preds = self.predict(test_df)
+        probs, preds = self.predict(predict_df)
         # metrics = evaluate_predictions(test_df['label'], preds)
         # return metrics
         return probs, preds

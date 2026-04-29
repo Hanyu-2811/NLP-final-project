@@ -74,10 +74,10 @@ class ModelB:
         X = self.extract_features(df['text'])
         return self.classifier.predict(X)
 
-    def run(self, train_df, test_df):
+    def run(self, train_df, predict_df):
         print("Running Baseline B (GPT-2 Perplexity + Burstiness + LR)...")
         ppl = self.train(train_df) # also get probabilities
-        preds = self.predict(test_df)
+        preds = self.predict(predict_df)
         # metrics = evaluate_predictions(test_df['label'], preds)
         # return metrics
         
