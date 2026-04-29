@@ -60,10 +60,10 @@ def vote_machine():
     # build voter
     voter = tf.keras.Sequential([
         tf.keras.layers.Input(shape=(3,)),
-        tf.keras.layers.Dense(10, activation="relu"),
-        tf.keras.layers.Dropout(0.3), # avoid overfitting
+        # tf.keras.layers.Dense(10, activation="relu"),
+        # tf.keras.layers.Dropout(0.3),
         tf.keras.layers.Dense(8,activation="relu"),
-        tf.keras.layers.Dropout(0.3),
+        tf.keras.layers.Dropout(0.3),# avoid overfitting
         tf.keras.layers.Dense(1,activation="sigmoid")
     ])
     
@@ -175,7 +175,7 @@ def main():
         probp,
         dev_probs,
     ])
-    y_dev = tokenized_dataset["validation"]["label"]
+    y_dev = np.array(tokenized_dataset["validation"]["label"])
     
     # fit voting machine
     voter = vote_machine()
@@ -190,7 +190,7 @@ def main():
         probp,
         probs
     ])
-    y_test = tokenized_dataset["test"]["label"]
+    y_test = np.array(tokenized_dataset["test"]["label"])
     
     # get the voting probability
     prob_vote = voter.predict(x_test).ravel()
