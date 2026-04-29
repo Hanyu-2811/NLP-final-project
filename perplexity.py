@@ -3,7 +3,6 @@ import numpy as np
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 from sklearn.linear_model import LogisticRegression
 from tqdm import tqdm
-from ..evaluation import evaluate_predictions
 
 class ModelB:
     """

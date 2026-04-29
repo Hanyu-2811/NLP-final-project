@@ -1,6 +1,5 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
-from ..evaluation import evaluate_predictions
 
 class ModelA:
     """
