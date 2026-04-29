@@ -14,7 +14,6 @@ import torch.nn.functional as F
 # import the other baseline models
 from TFIDF import ModelA
 from perplexity import ModelB
-from baseline_c import BaselineC
 # voter imports
 import tensorflow as tf
 
