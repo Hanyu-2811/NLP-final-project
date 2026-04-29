@@ -12,8 +12,8 @@ from sklearn.metrics import accuracy_score, precision_score, precision_recall_fs
 import torch
 import torch.nn.functional as F
 # import the other baseline models
-from baseline_a import BaselineA
-from baseline_b import BaselineB
+from TFIDF import ModelA
+from perplexity import ModelB
 from baseline_c import BaselineC
 # voter imports
 import tensorflow as tf
@@ -163,9 +163,9 @@ def main():
     """ensemble with TF-IDF and perplexity:
     use the sequential nn voter to compute probabilities for each model"""
     # TF-IDF
-    tfmodel = BaselineA()
+    tfmodel = ModelA()
     # perplexity plus
-    pmodel = BaselineB()
+    pmodel = ModelB()
     
     # probabilities and predictions from two other models
     probtf, predtf = tfmodel.run(dataset["train"],dataset["validation"])

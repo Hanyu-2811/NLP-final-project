@@ -5,9 +5,9 @@ from sklearn.linear_model import LogisticRegression
 from tqdm import tqdm
 from ..evaluation import evaluate_predictions
 
-class BaselineB:
+class ModelB:
     """
-    Baseline B: Perplexity + Burstiness + Logistic Regression
+    Perplexity + Burstiness + Logistic Regression
     Uses GPT-2 to calculate statistical features of the text.
     """
     def __init__(self, model_id="gpt2"):

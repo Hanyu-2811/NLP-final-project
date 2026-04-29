@@ -2,9 +2,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from ..evaluation import evaluate_predictions
 
-class BaselineA:
+class ModelA:
     """
-    Baseline A: TF-IDF + Logistic Regression
+    TF-IDF + Logistic Regression
     """
     def __init__(self):
         self.vectorizer = TfidfVectorizer(max_features=5000, stop_words='english')
