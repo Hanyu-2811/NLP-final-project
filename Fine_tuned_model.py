@@ -60,9 +60,9 @@ def vote_machine():
     # build voter
     voter = tf.keras.Sequential([
         tf.keras.layers.Input(shape=(3,)),
-        tf.keras.layers.Dense(256, activation="relu"),
+        tf.keras.layers.Dense(10, activation="relu"),
         tf.keras.layers.Dropout(0.3), # avoid overfitting
-        tf.keras.layers.Dense(64,activation="relu"),
+        tf.keras.layers.Dense(8,activation="relu"),
         tf.keras.layers.Dropout(0.3),
         tf.keras.layers.Dense(1,activation="sigmoid")
     ])
@@ -163,8 +163,8 @@ def main():
     pmodel = BaselineB()
     
     # probabilities and predictions from two other models
-    probtf, predtf = tfmodel.run(dataset["train"]["text"],dataset["validation"]["label"])
-    probp, predp = pmodel.run(dataset["train"]["text"],dataset["validation"]["label"])
+    probtf, predtf = tfmodel.run(dataset["train"],dataset["validation"])
+    probp, predp = pmodel.run(dataset["train"],dataset["validation"])
     x_dev = np.column_stack([
         probtf,
         probp,
