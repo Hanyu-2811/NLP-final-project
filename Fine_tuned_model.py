@@ -183,12 +183,12 @@ def main():
     
     # create for x_test
     #first update for test predicts
-    _, predtf = tfmodel.predict(tokenized_dataset["test"])
-    _, predp = pmodel.predict(tokenized_dataset["test"])
+    probtf, predtf = tfmodel.predict(dataset["test"])
+    probp, predp = pmodel.predict(dataset["test"])
     x_test = np.column_stack([
-        predtf,
-        predp,
-        preds
+        probtf,
+        probp,
+        probs
     ])
     y_test = tokenized_dataset["test"]["label"]
     
