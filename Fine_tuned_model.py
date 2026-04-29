@@ -9,6 +9,14 @@ from transformers import ( # type: ignore
     EarlyStoppingCallback
 )
 from sklearn.metrics import accuracy_score, precision_score, precision_recall_fscore_support # type: ignore
+import torch
+import torch.nn.functional as F
+# import the other baseline models
+from baseline_a import BaselineA
+from baseline_b import BaselineB
+from baseline_c import BaselineC
+# voter imports
+import tensorflow as tf
 
 # roberta being better model
 model_name = "roberta-base"
@@ -47,12 +55,35 @@ def compute_metrics(eval_pred):
         "f1": f1
     }
 
+# this builds a model to learn how much percentage assign for each model - the "voter"
+def vote_machine():
+    # build voter
+    voter = tf.keras.Sequential([
+        tf.keras.layers.Input(shape=(train.shape[1],)),
+        tf.keras.layers.Dense(256, activation="relu"),
+        tf.keras.layers.Dropout(0.3), # avoid overfitting
+        tf.keras.layers.Dense(64,activation="relu"),
+        tf.keras.layers.Dropout(0.3),
+        tf.keras.layers.Dense(1,activation="sigmoid")
+    ])
+    
+    #compile
+    voter.compile(
+        optimizer = tf.keras.optimizers.Adam(learning_rate=1e-3),
+        loss = "binary_crossentropy",
+        metrics = ["accuracy"]
+    )
+    
+    return voter
+    
+
 def main():
     # we want to take 4 inputs: this program, train file, development file, test file, result file(or the output file)
     if len(sys.argv)!=5:
         print("Usage: python Fine_tuned_model.py train_file_name.json development_file_name.json test_file_name.json output_file")
         sys.exit(1) # we exit with error
     
+    """preparations for roberta"""
     # load dataset with arguments(the filenames specific for those train, development, and test purpose)
     dataset = load_dataset(
         "json",
@@ -114,18 +145,58 @@ def main():
     # Train the model!
     trainer.train()
 
-    # test the result
-    test_results = trainer.evaluate(tokenized_dataset["test"])
+    # # test the result
+    # test_results = trainer.evaluate(tokenized_dataset["test"])
 
     # get predictions
     pred_output = trainer.predict(tokenized_dataset["test"])
 
     logits = pred_output.predictions
+    probs = F.softmax(torch.tensor(logits), dim=1).numpy()[:,1] # probability
     preds = np.argmax(logits, axis=-1)
     
-    # output the result
+    """ensemble with TF-IDF and gpt2:
+    use the sequential nn voter to compute probabilities for each model"""
+    # TF-IDF
+    tfmodel = BaselineA()
+    # perplexity plus
+    pmodel = BaselineB()
+    
+    # probabilities and predictions from two other models
+    probtf, predtf = tfmodel.run(tokenized_dataset["train"],tokenized_dataset["test"])
+    probp, predp = pmodel.run(tokenized_dataset["train"],tokenized_dataset["test"])
+    x_dev = np.column_stack([
+        probtf,
+        probp,
+        probs,
+    ])
+    y_dev = tokenized_dataset["validation"]
+    
+    # fit voting machine
+    voter = vote_machine()
+    voter.fit(x_dev,y_dev,epochs=20,batch_size=8)
+    
+    # create for x_test
+    x_test = np.column_stack([
+        predtf,
+        predp,
+        preds
+    ])
+    y_test = tokenized_dataset["test"]
+    
+    # get the voting probability
+    prob_vote = voter.predict(x_test).ravel()
+    pred_eventual = (prob_vote >= 0.5).astype(int) # if over half, we assign as label "1"
+    
+    """compute evalution if needed"""
+    precision, recall, f1, _ = precision_recall_fscore_support(
+        y_test, pred_eventual, average = "binary"
+    )
+    accuracy = accuracy_score(y_test, pred_eventual)
+    
+    """output the result"""
     with open(sys.argv[4],"w") as out:
-        for p in preds:
+        for p in pred_eventual:
             out.write(str(p) + "\n")
 
     trainer.save_model("./final-bert-ai-detector")
