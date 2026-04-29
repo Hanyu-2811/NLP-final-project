@@ -155,7 +155,7 @@ def main():
     probs = F.softmax(torch.tensor(logits), dim=1).numpy()[:,1] # probability
     preds = np.argmax(logits, axis=-1)
     
-    """ensemble with TF-IDF and gpt2:
+    """ensemble with TF-IDF and perplexity:
     use the sequential nn voter to compute probabilities for each model"""
     # TF-IDF
     tfmodel = BaselineA()
