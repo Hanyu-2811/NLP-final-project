@@ -182,7 +182,7 @@ def main():
     voter.fit(x_dev,y_dev,epochs=20,batch_size=8)
     
     # create for x_test
-    #first update for test predicts
+    #first update for test predictsf
     probtf, predtf = tfmodel.predict(dataset["test"])
     probp, predp = pmodel.predict(dataset["test"])
     x_test = np.column_stack([
