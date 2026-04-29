@@ -44,7 +44,6 @@ class ModelB:
         Extracts real Perplexity and Burstiness features.
         """
         features = []
-        ppl = [] # probability
         for text in tqdm(texts, desc="Extracting PPL features"):
             # 1. Total Perplexity
             total_ppl = self.calculate_ppl(text)
@@ -60,25 +59,25 @@ class ModelB:
                 burstiness = 0.0
                 
             features.append([total_ppl, burstiness])
-            ppl.append(total_ppl) # add to ppl
             
-        return ppl, np.array(features)
+        return np.array(features)
 
     def train(self, train_df):
-        ppl, X_train = self.extract_features(train_df['text'])
+        X_train = self.extract_features(train_df['text'])
         y_train = train_df['label']
         self.classifier.fit(X_train, y_train)
-        return ppl
 
     def predict(self, df):
         X = self.extract_features(df['text'])
-        return self.classifier.predict(X)
+        probs = self.classifier.predict_proba(X)[:, 1]
+        preds = self.classifier.predict(X)
+        return probs, preds
 
     def run(self, train_df, predict_df):
         print("Running Baseline B (GPT-2 Perplexity + Burstiness + LR)...")
-        ppl = self.train(train_df) # also get probabilities
-        preds = self.predict(predict_df)
+        self.train(train_df) # also get probabilities
+        probs, preds = self.predict(predict_df)
         # metrics = evaluate_predictions(test_df['label'], preds)
         # return metrics
         
-        return 1/ppl, preds
+        return probs, preds
