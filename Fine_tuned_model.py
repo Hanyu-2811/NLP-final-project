@@ -59,7 +59,7 @@ def compute_metrics(eval_pred):
 def vote_machine():
     # build voter
     voter = tf.keras.Sequential([
-        tf.keras.layers.Input(shape=(train.shape[1],)),
+        tf.keras.layers.Input(shape=(3,)),
         tf.keras.layers.Dense(256, activation="relu"),
         tf.keras.layers.Dropout(0.3), # avoid overfitting
         tf.keras.layers.Dense(64,activation="relu"),
@@ -163,14 +163,14 @@ def main():
     pmodel = BaselineB()
     
     # probabilities and predictions from two other models
-    probtf, predtf = tfmodel.run(tokenized_dataset["train"],tokenized_dataset["test"])
-    probp, predp = pmodel.run(tokenized_dataset["train"],tokenized_dataset["test"])
+    probtf, predtf = tfmodel.run(dataset["train"]["text"],dataset["validation"]["label"])
+    probp, predp = pmodel.run(dataset["train"]["text"],dataset["validation"]["label"])
     x_dev = np.column_stack([
         probtf,
         probp,
         probs,
     ])
-    y_dev = tokenized_dataset["validation"]
+    y_dev = tokenized_dataset["validation"]["label"]
     
     # fit voting machine
     voter = vote_machine()
@@ -182,7 +182,7 @@ def main():
         predp,
         preds
     ])
-    y_test = tokenized_dataset["test"]
+    y_test = tokenized_dataset["test"]["label"]
     
     # get the voting probability
     prob_vote = voter.predict(x_test).ravel()
