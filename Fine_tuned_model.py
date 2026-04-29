@@ -148,11 +148,16 @@ def main():
     # # test the result
     # test_results = trainer.evaluate(tokenized_dataset["test"])
 
-    # get predictions
+    # get relevant information for two sets: dev and test
+    # development parts
+    dev_output = trainer.predict(tokenized_dataset["validation"])
+    dev_logits = dev_output.predictions
+    dev_probs = F.softmax(torch.tensor(dev_logits), dim=1).numpy()[:,1] # probability
+    dev_preds = np.argmax(dev_logits, axis=-1)
+    # prediction parts
     pred_output = trainer.predict(tokenized_dataset["test"])
-
     logits = pred_output.predictions
-    probs = F.softmax(torch.tensor(logits), dim=1).numpy()[:,1] # probability
+    probs = F.softmax(torch.tensor(logits),dim=1).numpy()[:,1]
     preds = np.argmax(logits, axis=-1)
     
     """ensemble with TF-IDF and perplexity:
@@ -168,7 +173,7 @@ def main():
     x_dev = np.column_stack([
         probtf,
         probp,
-        probs,
+        dev_probs,
     ])
     y_dev = tokenized_dataset["validation"]["label"]
     
