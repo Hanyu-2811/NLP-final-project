@@ -1,0 +1,2 @@
+id,text,label,source,domain,topic_id,topic,prompt,generation_model,style_condition,sentence_count,avg_sentence_length,sentence_length_std,token_count,perplexity,burstiness,source_model,generation_temperature
+human_001,"This is a sample human text.",0,human,essay,essay_001,"Essay Topic 1","Write an essay discussing the pros and cons of aspect 1.",human,human_written,1,6.0,0.0,7,-1,-1,human,-1

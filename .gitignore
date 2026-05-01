@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Checkpoints (Large Files)
+**/checkpoint-*/
+*.pt
+*.safetensors
+*.bin
+*.model
+*.ckpt
+
+# Logs
+results/logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
