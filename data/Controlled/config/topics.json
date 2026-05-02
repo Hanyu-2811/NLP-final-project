@@ -1,0 +1,470 @@
+[
+    {
+        "topic_id": "essay_001",
+        "domain": "essay",
+        "topic": "Universal Basic Income",
+        "prompt": "Write an argumentative essay on 'Universal Basic Income'.\\n\\nYour essay should:\\n- Discuss the following aspects: economic feasibility, impact on work ethic, poverty reduction, inflation risks\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_002",
+        "domain": "essay",
+        "topic": "Four-Day Work Week",
+        "prompt": "Write an argumentative essay on 'Four-Day Work Week'.\\n\\nYour essay should:\\n- Discuss the following aspects: employee mental health, corporate productivity, economic implications, work-life balance\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_003",
+        "domain": "essay",
+        "topic": "Space Exploration Funding",
+        "prompt": "Write an argumentative essay on 'Space Exploration Funding'.\\n\\nYour essay should:\\n- Discuss the following aspects: scientific advancements, resource allocation on Earth, economic return on investment, national prestige\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_004",
+        "domain": "essay",
+        "topic": "Mandatory Public Service",
+        "prompt": "Write an argumentative essay on 'Mandatory Public Service'.\\n\\nYour essay should:\\n- Discuss the following aspects: civic duty, personal freedom, societal cohesion, economic cost\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_005",
+        "domain": "essay",
+        "topic": "Artificial Intelligence in Education",
+        "prompt": "Write an argumentative essay on 'Artificial Intelligence in Education'.\\n\\nYour essay should:\\n- Discuss the following aspects: personalized learning, data privacy, teacher displacement, educational equity\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_006",
+        "domain": "essay",
+        "topic": "Genetic Engineering of Human Embryos",
+        "prompt": "Write an argumentative essay on 'Genetic Engineering of Human Embryos'.\\n\\nYour essay should:\\n- Discuss the following aspects: medical breakthroughs, ethical boundaries, genetic inequality, unforeseen biological consequences\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_007",
+        "domain": "essay",
+        "topic": "Social Media Censorship",
+        "prompt": "Write an argumentative essay on 'Social Media Censorship'.\\n\\nYour essay should:\\n- Discuss the following aspects: freedom of speech, misinformation spread, platform accountability, democratic integrity\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_008",
+        "domain": "essay",
+        "topic": "Renewable Energy vs Nuclear Power",
+        "prompt": "Write an argumentative essay on 'Renewable Energy vs Nuclear Power'.\\n\\nYour essay should:\\n- Discuss the following aspects: environmental safety, energy reliability, infrastructure costs, waste management\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_009",
+        "domain": "essay",
+        "topic": "Standardized Testing in Schools",
+        "prompt": "Write an argumentative essay on 'Standardized Testing in Schools'.\\n\\nYour essay should:\\n- Discuss the following aspects: academic measurement, student stress, educational bias, curriculum narrowing\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_010",
+        "domain": "essay",
+        "topic": "Cashless Society",
+        "prompt": "Write an argumentative essay on 'Cashless Society'.\\n\\nYour essay should:\\n- Discuss the following aspects: financial convenience, cybersecurity risks, digital exclusion of the elderly, state surveillance\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_011",
+        "domain": "essay",
+        "topic": "Autonomous Vehicles",
+        "prompt": "Write an argumentative essay on 'Autonomous Vehicles'.\\n\\nYour essay should:\\n- Discuss the following aspects: traffic safety, liability issues, job displacement in transport, urban infrastructure\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_012",
+        "domain": "essay",
+        "topic": "Meat Tax",
+        "prompt": "Write an argumentative essay on 'Meat Tax'.\\n\\nYour essay should:\\n- Discuss the following aspects: environmental sustainability, public health, consumer choice, impact on agricultural industry\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_013",
+        "domain": "essay",
+        "topic": "Banning Single-Use Plastics",
+        "prompt": "Write an argumentative essay on 'Banning Single-Use Plastics'.\\n\\nYour essay should:\\n- Discuss the following aspects: marine conservation, alternative packaging costs, consumer convenience, corporate responsibility\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_014",
+        "domain": "essay",
+        "topic": "Lowering the Voting Age to 16",
+        "prompt": "Write an argumentative essay on 'Lowering the Voting Age to 16'.\\n\\nYour essay should:\\n- Discuss the following aspects: youth civic engagement, political maturity, educational prerequisites, voter turnout implications\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_015",
+        "domain": "essay",
+        "topic": "Tuition-Free College",
+        "prompt": "Write an argumentative essay on 'Tuition-Free College'.\\n\\nYour essay should:\\n- Discuss the following aspects: accessibility of higher education, taxpayer burden, devaluation of degrees, social mobility\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_016",
+        "domain": "essay",
+        "topic": "Telecommuting vs Office Work",
+        "prompt": "Write an argumentative essay on 'Telecommuting vs Office Work'.\\n\\nYour essay should:\\n- Discuss the following aspects: workplace culture, employee productivity, commercial real estate impact, carbon footprint reduction\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_017",
+        "domain": "essay",
+        "topic": "Cryptocurrency Regulation",
+        "prompt": "Write an argumentative essay on 'Cryptocurrency Regulation'.\\n\\nYour essay should:\\n- Discuss the following aspects: financial innovation, fraud prevention, market volatility, decentralization principles\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_018",
+        "domain": "essay",
+        "topic": "The Gig Economy",
+        "prompt": "Write an argumentative essay on 'The Gig Economy'.\\n\\nYour essay should:\\n- Discuss the following aspects: worker flexibility, lack of benefits, employment law, corporate exploitation\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_019",
+        "domain": "essay",
+        "topic": "Animal Testing in Research",
+        "prompt": "Write an argumentative essay on 'Animal Testing in Research'.\\n\\nYour essay should:\\n- Discuss the following aspects: medical advancement, animal welfare, alternative testing methods, ethical justification\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_020",
+        "domain": "essay",
+        "topic": "E-sports in the Olympic Games",
+        "prompt": "Write an argumentative essay on 'E-sports in the Olympic Games'.\\n\\nYour essay should:\\n- Discuss the following aspects: definition of physical sports, youth viewership, commercialization, traditional olympic values\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_021",
+        "domain": "essay",
+        "topic": "Sugar Tax on Beverages",
+        "prompt": "Write an argumentative essay on 'Sugar Tax on Beverages'.\\n\\nYour essay should:\\n- Discuss the following aspects: obesity reduction, regressivity of the tax, personal choice, healthcare cost savings\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_022",
+        "domain": "essay",
+        "topic": "The Right to Repair Electronics",
+        "prompt": "Write an argumentative essay on 'The Right to Repair Electronics'.\\n\\nYour essay should:\\n- Discuss the following aspects: consumer autonomy, e-waste reduction, intellectual property, device safety\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_023",
+        "domain": "essay",
+        "topic": "Defunding the Police",
+        "prompt": "Write an argumentative essay on 'Defunding the Police'.\\n\\nYour essay should:\\n- Discuss the following aspects: community resource allocation, crime rates, police reform, public safety perception\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_024",
+        "domain": "essay",
+        "topic": "The U.S. Electoral College System",
+        "prompt": "Write an argumentative essay on 'The U.S. Electoral College System'.\\n\\nYour essay should:\\n- Discuss the following aspects: representation of rural areas, popular vote discrepancy, swing state focus, democratic fairness\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_025",
+        "domain": "essay",
+        "topic": "Gene Editing in Agriculture",
+        "prompt": "Write an argumentative essay on 'Gene Editing in Agriculture'.\\n\\nYour essay should:\\n- Discuss the following aspects: crop yield improvements, biodiversity loss, food safety, corporate control of seeds\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_026",
+        "domain": "essay",
+        "topic": "Mars Colonization Feasibility",
+        "prompt": "Write an argumentative essay on 'Mars Colonization Feasibility'.\\n\\nYour essay should:\\n- Discuss the following aspects: technological hurdles, human physiological limits, ethical right to colonize, funding priorities\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_027",
+        "domain": "essay",
+        "topic": "Universal Healthcare",
+        "prompt": "Write an argumentative essay on 'Universal Healthcare'.\\n\\nYour essay should:\\n- Discuss the following aspects: health equity, quality of care, taxation impact, wait times for treatment\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_028",
+        "domain": "essay",
+        "topic": "Abolishing Private Prisons",
+        "prompt": "Write an argumentative essay on 'Abolishing Private Prisons'.\\n\\nYour essay should:\\n- Discuss the following aspects: profit motive in incarceration, rehabilitation outcomes, state budget constraints, human rights\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_029",
+        "domain": "essay",
+        "topic": "Federal Minimum Wage Increase",
+        "prompt": "Write an argumentative essay on 'Federal Minimum Wage Increase'.\\n\\nYour essay should:\\n- Discuss the following aspects: poverty alleviation, small business survival, inflationary pressures, employment rates\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_030",
+        "domain": "essay",
+        "topic": "Internet Access as a Basic Human Right",
+        "prompt": "Write an argumentative essay on 'Internet Access as a Basic Human Right'.\\n\\nYour essay should:\\n- Discuss the following aspects: digital divide, economic opportunity, infrastructure funding, education access\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_031",
+        "domain": "essay",
+        "topic": "Biometric Surveillance in Public Spaces",
+        "prompt": "Write an argumentative essay on 'Biometric Surveillance in Public Spaces'.\\n\\nYour essay should:\\n- Discuss the following aspects: crime prevention, privacy violation, algorithmic bias, state overreach\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_032",
+        "domain": "essay",
+        "topic": "Deepfake Content Legislation",
+        "prompt": "Write an argumentative essay on 'Deepfake Content Legislation'.\\n\\nYour essay should:\\n- Discuss the following aspects: political manipulation, freedom of expression, enforcement challenges, reputation damage\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_033",
+        "domain": "essay",
+        "topic": "Fast Fashion Environmental Regulation",
+        "prompt": "Write an argumentative essay on 'Fast Fashion Environmental Regulation'.\\n\\nYour essay should:\\n- Discuss the following aspects: textile waste, supply chain labor conditions, consumer affordability, corporate accountability\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_034",
+        "domain": "essay",
+        "topic": "Banning Junk Food Advertising to Children",
+        "prompt": "Write an argumentative essay on 'Banning Junk Food Advertising to Children'.\\n\\nYour essay should:\\n- Discuss the following aspects: childhood obesity, parental responsibility, corporate marketing rights, long-term health impacts\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_035",
+        "domain": "essay",
+        "topic": "Drone Delivery Regulations",
+        "prompt": "Write an argumentative essay on 'Drone Delivery Regulations'.\\n\\nYour essay should:\\n- Discuss the following aspects: logistical efficiency, airspace congestion, noise pollution, privacy concerns\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_036",
+        "domain": "essay",
+        "topic": "Commercial Space Tourism",
+        "prompt": "Write an argumentative essay on 'Commercial Space Tourism'.\\n\\nYour essay should:\\n- Discuss the following aspects: technological inspiration, carbon footprint, wealth inequality, safety regulations\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_037",
+        "domain": "essay",
+        "topic": "Algorithmic Sentencing in the Justice System",
+        "prompt": "Write an argumentative essay on 'Algorithmic Sentencing in the Justice System'.\\n\\nYour essay should:\\n- Discuss the following aspects: judicial efficiency, historical racial bias, transparency of code, human empathy in law\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_038",
+        "domain": "essay",
+        "topic": "Comprehensive Data Privacy Laws",
+        "prompt": "Write an argumentative essay on 'Comprehensive Data Privacy Laws'.\\n\\nYour essay should:\\n- Discuss the following aspects: consumer protection, business compliance costs, innovation stifling, cross-border data flows\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_039",
+        "domain": "essay",
+        "topic": "Compulsory Voting",
+        "prompt": "Write an argumentative essay on 'Compulsory Voting'.\\n\\nYour essay should:\\n- Discuss the following aspects: democratic legitimacy, voter apathy, infringement on personal liberty, political extremism reduction\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_040",
+        "domain": "essay",
+        "topic": "Four-Day School Week",
+        "prompt": "Write an argumentative essay on 'Four-Day School Week'.\\n\\nYour essay should:\\n- Discuss the following aspects: student burnout, childcare burdens for parents, district budget savings, academic performance\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_041",
+        "domain": "essay",
+        "topic": "Universal Pre-K Programs",
+        "prompt": "Write an argumentative essay on 'Universal Pre-K Programs'.\\n\\nYour essay should:\\n- Discuss the following aspects: early childhood development, maternal workforce participation, educational inequality, public funding\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "essay_042",
+        "domain": "essay",
+        "topic": "Ban on Targeted Digital Advertising",
+        "prompt": "Write an argumentative essay on 'Ban on Targeted Digital Advertising'.\\n\\nYour essay should:\\n- Discuss the following aspects: user privacy, free internet economic model, small business marketing, filter bubbles\\n- Present a balanced argument with multiple perspectives\\n- Provide reasoning and examples where appropriate\\n- Conclude with a clear position"
+    },
+    {
+        "topic_id": "wiki_001",
+        "domain": "wikipedia",
+        "topic": "History of the Printing Press",
+        "prompt": "Write an informational article about 'History of the Printing Press'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_002",
+        "domain": "wikipedia",
+        "topic": "The Manhattan Project",
+        "prompt": "Write an informational article about 'The Manhattan Project'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_003",
+        "domain": "wikipedia",
+        "topic": "Photosynthesis",
+        "prompt": "Write an informational article about 'Photosynthesis'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_004",
+        "domain": "wikipedia",
+        "topic": "Plate Tectonics",
+        "prompt": "Write an informational article about 'Plate Tectonics'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_005",
+        "domain": "wikipedia",
+        "topic": "The Renaissance Period",
+        "prompt": "Write an informational article about 'The Renaissance Period'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_006",
+        "domain": "wikipedia",
+        "topic": "Artificial Neural Networks",
+        "prompt": "Write an informational article about 'Artificial Neural Networks'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_007",
+        "domain": "wikipedia",
+        "topic": "The Silk Road",
+        "prompt": "Write an informational article about 'The Silk Road'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_008",
+        "domain": "wikipedia",
+        "topic": "Quantum Mechanics",
+        "prompt": "Write an informational article about 'Quantum Mechanics'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_009",
+        "domain": "wikipedia",
+        "topic": "The Great Wall of China",
+        "prompt": "Write an informational article about 'The Great Wall of China'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_010",
+        "domain": "wikipedia",
+        "topic": "The French Revolution",
+        "prompt": "Write an informational article about 'The French Revolution'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_011",
+        "domain": "wikipedia",
+        "topic": "Black Holes",
+        "prompt": "Write an informational article about 'Black Holes'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_012",
+        "domain": "wikipedia",
+        "topic": "The Inca Empire",
+        "prompt": "Write an informational article about 'The Inca Empire'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_013",
+        "domain": "wikipedia",
+        "topic": "DNA Replication",
+        "prompt": "Write an informational article about 'DNA Replication'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_014",
+        "domain": "wikipedia",
+        "topic": "Theory of General Relativity",
+        "prompt": "Write an informational article about 'Theory of General Relativity'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_015",
+        "domain": "wikipedia",
+        "topic": "The Industrial Revolution",
+        "prompt": "Write an informational article about 'The Industrial Revolution'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_016",
+        "domain": "wikipedia",
+        "topic": "Roman Aqueducts",
+        "prompt": "Write an informational article about 'Roman Aqueducts'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_017",
+        "domain": "wikipedia",
+        "topic": "The Discovery of Penicillin",
+        "prompt": "Write an informational article about 'The Discovery of Penicillin'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "wiki_018",
+        "domain": "wikipedia",
+        "topic": "The Aztec Empire",
+        "prompt": "Write an informational article about 'The Aztec Empire'. Provide a comprehensive and neutral overview, including its definition, background, major concepts, mechanisms, applications, or historical significance where relevant."
+    },
+    {
+        "topic_id": "news_001",
+        "domain": "news",
+        "topic": "The 2023 Silicon Valley Bank Collapse",
+        "prompt": "Write an objective journalistic report on 'The 2023 Silicon Valley Bank Collapse'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_002",
+        "domain": "news",
+        "topic": "The Passing of the European Union's AI Act",
+        "prompt": "Write an objective journalistic report on 'The Passing of the European Union's AI Act'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_003",
+        "domain": "news",
+        "topic": "The 2024 Total Solar Eclipse in North America",
+        "prompt": "Write an objective journalistic report on 'The 2024 Total Solar Eclipse in North America'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_004",
+        "domain": "news",
+        "topic": "The COP28 Climate Agreement in Dubai",
+        "prompt": "Write an objective journalistic report on 'The COP28 Climate Agreement in Dubai'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_005",
+        "domain": "news",
+        "topic": "The Launch of the James Webb Space Telescope",
+        "prompt": "Write an objective journalistic report on 'The Launch of the James Webb Space Telescope'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_006",
+        "domain": "news",
+        "topic": "The Re-election of Emmanuel Macron in 2022",
+        "prompt": "Write an objective journalistic report on 'The Re-election of Emmanuel Macron in 2022'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_007",
+        "domain": "news",
+        "topic": "The Signing of the CHIPS and Science Act of 2022",
+        "prompt": "Write an objective journalistic report on 'The Signing of the CHIPS and Science Act of 2022'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_008",
+        "domain": "news",
+        "topic": "The 2023 Hollywood Writers Guild Strike",
+        "prompt": "Write an objective journalistic report on 'The 2023 Hollywood Writers Guild Strike'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_009",
+        "domain": "news",
+        "topic": "The UK's Brexit Transition Period Conclusion",
+        "prompt": "Write an objective journalistic report on 'The UK's Brexit Transition Period Conclusion'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_010",
+        "domain": "news",
+        "topic": "The 2022 Overturn of Roe v. Wade",
+        "prompt": "Write an objective journalistic report on 'The 2022 Overturn of Roe v. Wade'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_011",
+        "domain": "news",
+        "topic": "The Introduction of London's Ultra Low Emission Zone (ULEZ) Expansion",
+        "prompt": "Write an objective journalistic report on 'The Introduction of London's Ultra Low Emission Zone (ULEZ) Expansion'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_012",
+        "domain": "news",
+        "topic": "The Artemis I Moon Mission Launch",
+        "prompt": "Write an objective journalistic report on 'The Artemis I Moon Mission Launch'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_013",
+        "domain": "news",
+        "topic": "The COVID-19 Public Health Emergency Expiration in the US",
+        "prompt": "Write an objective journalistic report on 'The COVID-19 Public Health Emergency Expiration in the US'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_014",
+        "domain": "news",
+        "topic": "The 2023 Canadian Wildfires and New York Air Quality",
+        "prompt": "Write an objective journalistic report on 'The 2023 Canadian Wildfires and New York Air Quality'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_015",
+        "domain": "news",
+        "topic": "The Implementation of the EU General Data Protection Regulation (GDPR)",
+        "prompt": "Write an objective journalistic report on 'The Implementation of the EU General Data Protection Regulation (GDPR)'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_016",
+        "domain": "news",
+        "topic": "The First Successful Pig-to-Human Heart Transplant",
+        "prompt": "Write an objective journalistic report on 'The First Successful Pig-to-Human Heart Transplant'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_017",
+        "domain": "news",
+        "topic": "The 2021 Suez Canal Obstruction by the Ever Given",
+        "prompt": "Write an objective journalistic report on 'The 2021 Suez Canal Obstruction by the Ever Given'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    },
+    {
+        "topic_id": "news_018",
+        "domain": "news",
+        "topic": "The FTC's Attempt to Block the Microsoft-Activision Blizzard Merger",
+        "prompt": "Write an objective journalistic report on 'The FTC's Attempt to Block the Microsoft-Activision Blizzard Merger'. Focus on detailing the specific policy decisions, involved parties, timeline of events, and immediate public implications in a clear news format."
+    }
+]
