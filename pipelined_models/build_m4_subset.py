@@ -14,9 +14,10 @@ nltk.download('punkt', quiet=True)
 nltk.download('punkt_tab', quiet=True)
 from nltk.tokenize import sent_tokenize
 
-# --- Configuration ---
-DATA_DIR = Path('c:/Users/111/Desktop/Home/NYU/26Spring/NLP/AI-detection_with_M4/M4-main/data')
-OUTPUT_DIR = Path('c:/Users/111/Desktop/Home/NYU/26Spring/NLP/AI-detection_with_M4/subset')
+# Configuration
+ROOT_DIR = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT_DIR / "data" / "m4"
+OUTPUT_DIR = ROOT_DIR / "data" / "m4"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 DOMAINS = ['wikipedia', 'reddit', 'wikihow', 'peerread', 'arxiv']

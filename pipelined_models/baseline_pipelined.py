@@ -11,7 +11,8 @@ from sklearn.pipeline import Pipeline
 from sklearn.base import BaseEstimator, TransformerMixin
 
 # Define Paths
-ROOT_DIR = Path('c:/Users/111/Desktop/Home/NYU/26Spring/NLP/Project')
+# ROOT_DIR = Path('c:/Users/111/Desktop/Home/NYU/26Spring/NLP/Project')
+ROOT_DIR = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT_DIR / 'data'
 RESULTS_DIR = ROOT_DIR / 'results'
 RESULTS_DIR.mkdir(exist_ok=True)
@@ -144,7 +145,8 @@ def datasets():
     datasets = {
         'Controlled': (c_train, c_dev, c_test),
         'HC3': (h_train, h_dev, h_test),
-        'M4': (m4_train, m4_train, m4_test)
+        # 'M4': (m4_train, m4_train, m4_test)
+        'M4': (m4_train, m4_dev, m4_test)
     }
     
     return datasets
@@ -235,6 +237,16 @@ def run_experiments(model1, model2, datasets):
         train_y = [x['label'] for x in train_data]
         test_y = [x['label'] for x in test_data]
         
+        # include development set here(so that it would be easy to uniformly process in ensemble)
+        train_data, dev_data = train_test_split(
+            train_data,
+            test_size=0.15,
+            stratify=train_y,
+            random_state=random_seed
+        )
+        train_y = [x["label"] for x in train_data]
+        dev_y = [x["label"] for x in dev_data]
+        
         for model_name, model in models.items():
             print(f"Training {model_name} on Cross-Gen (held-out: {gen})...")
             model.fit(train_data, train_y)
@@ -267,6 +279,16 @@ def run_experiments(model1, model2, datasets):
         test_data = load_json(test_path)
         train_y = [x['label'] for x in train_data]
         test_y = [x['label'] for x in test_data]
+        
+        # include development set here(so that it would be easy to uniformly process in ensemble)
+        train_data, dev_data = train_test_split(
+            train_data,
+            test_size=0.15,
+            stratify=train_y,
+            random_state=random_seed
+        )
+        train_y = [x["label"] for x in train_data]
+        dev_y = [x["label"] for x in dev_data]
         
         for model_name, model in models.items():
             print(f"Training {model_name} on Cross-Domain (held-out: {dom})...")

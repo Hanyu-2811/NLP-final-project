@@ -1,4 +1,5 @@
 import numpy as np
+from pathlib import Path
 import sys
 from datasets import load_dataset # type: ignore
 from transformers import ( # type: ignore
@@ -21,6 +22,11 @@ from pipelined_models.roberta_experiments import AIDetectionDataset, roberta_dat
 
 # voter imports
 import tensorflow as tf
+
+# add for baseline path as well
+ROOT_DIR = Path(__file__).resolve().parent
+DATA_DIR = ROOT_DIR / "data"
+RESULTS_DIR = ROOT_DIR / "results"
 
 # roberta being better model
 model_name = "roberta-base"
@@ -149,8 +155,13 @@ def main():
     # get pipelined base models' datasets
     base_datasets = datasets()
     
-    # get roberta model's datasets' related things/parameters
-    hc3_dev, hc3_train, m4_test, results, predictions, m4_train, m4_dev, cg_dev_split, cg_train_split, cg_chatgpt_test = roberta_datasets()
+    # get roberta models' datasets' related things/parameters
+    # exp1
+    hc3_dev, hc3_train, m4_test, results, predictions, m4_train, m4_dev, cg_dev_split, cg_train_split, cg_chatgpt_test, seed1 = roberta_datasets(42)
+    # exp2
+    hc3_dev2, hc3_train2, m4_test2, results2, predictions2, m4_train2, m4_dev2, cg_dev_split2, cg_train_split2, cg_chatgpt_test2, seed2 = roberta_datasets(43)
+    # exp3
+    hc3_dev3, hc3_train3, m4_test3, results3, predictions3, m4_train3, m4_dev3, cg_dev_split3, cg_train_split3, cg_chatgpt_test3, seed3 = roberta_datasets(44)
     
     """load corresponding models
     Note: since roberta's model would already included in experiments, only pipelined models here are loaded"""
@@ -163,7 +174,9 @@ def main():
     #exps include all metrics needed for all three experiments
     
     # roberta exps
-    robmodel1, robmodel2, robmodel3 = run_roberta_experiments(hc3_dev, hc3_train, m4_test, results, predictions, m4_train, m4_dev, cg_dev_split, cg_train_split, cg_chatgpt_test)
+    robmodel1 = run_roberta_experiments(hc3_dev, hc3_train, m4_test, results, predictions, m4_train, m4_dev, cg_dev_split, cg_train_split, cg_chatgpt_test, seed1)
+    robmodel2 = run_roberta_experiments(hc3_dev2, hc3_train2, m4_test2, results2, predictions2, m4_train2, m4_dev2, cg_dev_split2, cg_train_split2, cg_chatgpt_test2, seed2)
+    robmodel3 = run_roberta_experiments(hc3_dev3, hc3_train3, m4_test3, results3, predictions3, m4_train3, m4_dev3, cg_dev_split3, cg_train_split3, cg_chatgpt_test3, seed3)
     
     """development - prepare for voter"""
     # tfidf for experiment a,b,c
@@ -257,32 +270,23 @@ def main():
     robprob1, robprob2, robprob3 = robmodel1["test_probs"], robmodel2["test_probs"], robmodel3["test_probs"]
     roby1, roby2, roby3 = robmodel1["test_labels"], robmodel2["test_labels"], robmodel3["test_labels"]
     
-    # x_test = np.column_stack([
-    #     tfproba, tfprobb, tfprobc,
-    #     sigproba, sigprobb, sigprobc,
-    #     robprob1, robprob2, robprob3
-    # ])
-    # y_test = np.column_stack([
-    #     y_testa, y_testb, y_testc,
-    #     y_testa, y_testb, y_testc,
-    #     roby1, roby2, roby3
-    # ])
 
     # base models in binary way
-    x_testa = np.column_stack([
-        tfproba, sigproba
-    ])
-    y_test_a = np.array(y_testa)
+    # x_testa = np.column_stack([
+    #     tfproba, sigproba
+    # ])
+    # y_test_a = np.array(y_testa)
     
-    x_testb = np.column_stack([
-        tfprobb, sigprobb
-    ])
-    y_test_b = np.array(y_testb)
+    # x_testb = np.column_stack([
+    #     tfprobb, sigprobb
+    # ])
+    # y_test_b = np.array(y_testb)
     
-    x_testc = np.column_stack([
-        tfprobc, sigprobc
-    ])
-    y_test_c = np.array(y_testc)
+    # x_testc = np.column_stack([
+    #     tfprobc, sigprobc
+    # ])
+    # y_test_c = np.array(y_testc)
+    y_shared_test = np.array([int(x["label"]) for x in shared_test])
     
     
     """get voting probability"""
@@ -319,7 +323,7 @@ def main():
         rob2,
         rob3,
     ])
-    y_testall = [x['label'] for x in shared_test]
+    y_testall = y_shared_test
     
     # test for the major voter
     prob_vote = voter.predict(x_testall).ravel()
@@ -328,15 +332,15 @@ def main():
     """compute evaluation if needed"""
     # for the three small binary ensemblings
     precisiona, recalla, f1a, _ = precision_recall_fscore_support(
-        y_test_a, pred_a, average = "binary"
+        y_shared_test, pred_a, average = "binary"
     )
     
     precisionb, recallb, f1b, _ = precision_recall_fscore_support(
-        y_test_b, pred_b, average = "binary"
+        y_shared_test, pred_b, average = "binary"
     )
     
     precisionc, recallc, f1c, _ = precision_recall_fscore_support(
-        y_test_c, pred_c, average = "binary"
+        y_shared_test, pred_c, average = "binary"
     )
     
     # for the large main voter(main ensembling)

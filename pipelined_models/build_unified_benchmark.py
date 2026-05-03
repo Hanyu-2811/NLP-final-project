@@ -17,20 +17,20 @@ except LookupError:
     
 from nltk.tokenize import sent_tokenize, word_tokenize
 
-# --- Configurations ---
-ROOT_DIR = Path('c:/Users/111/Desktop/Home/NYU/26Spring/NLP/Project')
-DATA_DIR = ROOT_DIR / 'data'
-OUTPUT_DIR = DATA_DIR / 'unified_benchmark'
+# Configurations
+ROOT_DIR = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT_DIR / "data"
+OUTPUT_DIR = DATA_DIR / "unified_benchmark"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-CONTROLLED_PATH = DATA_DIR / 'Controlled/final/dataset_controlled_with_signals.jsonl'
-HC3_TRAIN_PATH = DATA_DIR / 'HC3/train (1).json'
-HC3_TEST_PATH = DATA_DIR / 'HC3/test.json'
-M4_PATH = DATA_DIR / 'm4/full_dataset.json'
+CONTROLLED_PATH = DATA_DIR / "Controlled" / "final" / "dataset_controlled_with_signals.jsonl"
+HC3_TRAIN_PATH = DATA_DIR / "HC3" / "train (1).json"
+HC3_TEST_PATH = DATA_DIR / "HC3" / "test.json"
+M4_PATH = DATA_DIR / "m4" / "full_dataset.json"
 
 random.seed(42)
 
-# --- Feature Extraction Helpers ---
+# Feature Extraction Helpers
 device = "cuda" if torch.cuda.is_available() else "cpu"
 tokenizer = None
 model = None
@@ -93,7 +93,7 @@ def compute_lexical_and_lm_features(text):
         "burstiness": round(burstiness_lexical, 4)
     }
 
-# --- Data Loading & Standardization ---
+# Data Loading & Standardization
 def load_controlled():
     print("Loading Controlled Dataset...")
     data = []
@@ -184,12 +184,12 @@ def main():
     hc3_data = load_hc3()
     m4_data = load_m4()
     
-    # --- Merge Datasets ---
+    # Merge Datasets
     print("Merging datasets...")
     combined_data = controlled_data + hc3_data + m4_data
     save_json(combined_data, "combined_dataset.json")
     
-    # --- Create Combined Training Datasets ---
+    # Create Combined Training Datasets
     print("Creating combined training datasets...")
     
     # 1. combined_balanced_small (600 from each)
@@ -212,7 +212,7 @@ def main():
     random.shuffle(combined_full_weighted)
     save_json(combined_full_weighted, "combined_full_weighted.json")
     
-    # --- Create Cross-Dataset Evaluation Splits ---
+    # Create Cross-Dataset Evaluation Splits
     print("Creating cross-dataset evaluation splits...")
     save_json(controlled_data, "train_Controlled_test_HC3_train.json")
     save_json(hc3_data, "train_Controlled_test_HC3_test.json")

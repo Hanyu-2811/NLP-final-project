@@ -17,14 +17,14 @@ import os
 os.environ["WANDB_DISABLED"] = "true"  # Disable wandb to prevent login prompts
 
 # Paths
-ROOT_DIR = Path('c:/Users/111/Desktop/Home/NYU/26Spring/NLP/Project')
-DATA_DIR = ROOT_DIR / 'data'
-RESULTS_DIR = ROOT_DIR / 'results'
+ROOT_DIR = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT_DIR / "data"
+RESULTS_DIR = ROOT_DIR / "results"
 RESULTS_DIR.mkdir(exist_ok=True)
-INDOMAIN_DIR = DATA_DIR / 'unified_benchmark/indomain_splits'
-M4_SUBSET_DIR = DATA_DIR / 'm4'
+INDOMAIN_DIR = DATA_DIR / "unified_benchmark" / "indomain_splits"
+M4_SUBSET_DIR = DATA_DIR / "m4"
 
-random_seed = 42
+# random_seed = 42
 
 # Dataset Class
 class AIDetectionDataset(torch.utils.data.Dataset):
@@ -64,7 +64,7 @@ def compute_metrics(eval_pred):
 """These below functions are contributing to the 3 experiments:
 1) prepare_dataset(data, tokenizer)
 2) *roberta model creation
-2) run_experiment(exp_name, train_data, dev_data, test_data, results_list, predictions_list)
+2) run_experiment(exp_name, train_data, dev_data, test_data, results_list, predictions_list, random_seed)
 
 """
 def prepare_dataset(data, tokenizer):
@@ -81,7 +81,8 @@ def roberta_model():
     model = AutoModelForSequenceClassification.from_pretrained('roberta-base', num_labels=2)
     return tokenizer, model
 
-def run_experiment(exp_name, train_data, dev_data, test_data, results_list, predictions_list):
+# run a distinct experiment for a roberta model
+def run_experiment(exp_name, train_data, dev_data, test_data, results_list, predictions_list,random_seed):
     print(f"\n{'='*50}\nStarting Experiment: {exp_name}\n{'='*50}")
     
     # tokenizer = AutoTokenizer.from_pretrained('roberta-base')
@@ -178,7 +179,8 @@ def run_experiment(exp_name, train_data, dev_data, test_data, results_list, pred
     }
 
 # prepare roberta datasets
-def roberta_datasets():
+# Note: random_seed parameter is added for different models
+def roberta_datasets(random_seed):
     results = []
     predictions = []
     
@@ -201,51 +203,64 @@ def roberta_datasets():
         cg_chatgpt_train, test_size=0.1, stratify=labels, random_state=random_seed
     )
     
-    return hc3_dev, hc3_train, m4_test, results, predictions, m4_train, m4_dev, cg_dev_split, cg_train_split, cg_chatgpt_test
+    return hc3_dev, hc3_train, m4_test, results, predictions, m4_train, m4_dev, cg_dev_split, cg_train_split, cg_chatgpt_test, random_seed
     
 # all experiments run for roberta
-def run_roberta_experiments(hc3_dev, hc3_train, m4_test, results, predictions, m4_train, m4_dev, cg_dev_split, cg_train_split, cg_chatgpt_test):
-    # 1. HC3 to M4
-    exp1 =run_experiment(
-        exp_name='HC3_to_M4',
-        train_data=hc3_train,
-        dev_data=hc3_dev,
-        test_data=m4_test,
-        results_list=results,
-        predictions_list=predictions
-    )
-    
-    # 2. M4 to M4
-    exp2 = run_experiment(
-        exp_name='M4_to_M4',
-        train_data=m4_train,
-        dev_data=m4_dev,
-        test_data=m4_test,
-        results_list=results,
-        predictions_list=predictions
-    )
-    
-    # 3. M4 Cross-Generator (Held-out ChatGPT)
-    exp3 = run_experiment(
-        exp_name='M4_heldout_chatgpt',
-        train_data=cg_train_split,
-        dev_data=cg_dev_split,
-        test_data=cg_chatgpt_test,
-        results_list=results,
-        predictions_list=predictions
-    )
-    
-    # Output results
-    print("Saving results to CSV...")
-    df_results = pd.DataFrame(results)
-    df_results.to_csv(RESULTS_DIR / 'roberta_results.csv', index=False)
-    
-    print("Saving predictions to JSON...")
-    with open(RESULTS_DIR / 'roberta_predictions.json', 'w', encoding='utf-8') as f:
-        json.dump(predictions, f, indent=2)
+# Note: random_seed parameters added to tell distinct roberta
+def run_roberta_experiments(hc3_dev, hc3_train, m4_test, results, predictions, m4_train, m4_dev, cg_dev_split, cg_train_split, cg_chatgpt_test, random_seed):
+    if (random_seed == 42):
+        # 1. HC3 to M4
+        exp1 =run_experiment(
+            exp_name='HC3_to_M4',
+            train_data=hc3_train,
+            dev_data=hc3_dev,
+            test_data=m4_test,
+            results_list=results,
+            predictions_list=predictions,
+            random_seed=random_seed # run different seeds for exp1,2,3
+        )
         
-    print("All done!")
+        return exp1
+    elif (random_seed == 43):
+        # 2. M4 to M4
+        exp2 = run_experiment(
+            exp_name='M4_to_M4',
+            train_data=m4_train,
+            dev_data=m4_dev,
+            test_data=m4_test,
+            results_list=results,
+            predictions_list=predictions,
+            random_seed=random_seed # run different seeds for exp1,2,3
+        )
+        
+        return exp2
+    elif (random_seed == 44):
+        # 3. M4 Cross-Generator (Held-out ChatGPT)
+        exp3 = run_experiment(
+            exp_name='M4_heldout_chatgpt',
+            train_data=cg_train_split,
+            dev_data=cg_dev_split,
+            test_data=cg_chatgpt_test,
+            results_list=results,
+            predictions_list=predictions,
+            random_seed=random_seed # run different seeds for exp1,2,3
+        )
+        return exp3
+    else:
+        print("Warning: either random_seed 42,43,44 for roberta experiment 1,2,3, or it is wrong")
+        return None
+    
+    # # Output results
+    # print("Saving results to CSV...")
+    # df_results = pd.DataFrame(results)
+    # df_results.to_csv(RESULTS_DIR / 'roberta_results.csv', index=False)
+    
+    # print("Saving predictions to JSON...")
+    # with open(RESULTS_DIR / 'roberta_predictions.json', 'w', encoding='utf-8') as f:
+    #     json.dump(predictions, f, indent=2)
+        
+    # print("All done!")
 
-    return exp1, exp2, exp3
+    # return exp1, exp2, exp3
 # if __name__ == "__main__":
 #     main()
