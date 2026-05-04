@@ -1,0 +1,3 @@
+setting,roberta_wrong_mlp_correct,roberta_correct_mlp_wrong,both_correct,both_wrong,high_disagreement_count,high_disagreement_roberta_error_rate,high_disagreement_stacking_error_rate,high_disagreement_mlp_error_rate
+M4_to_M4,34,9,2031,82,726,0.11294765840220386,0.10055096418732783,0.09779614325068871
+M4_Heldout_ChatGPT,40,2,7949,631,2443,0.11133851821530905,0.09823986901350798,0.10642652476463364

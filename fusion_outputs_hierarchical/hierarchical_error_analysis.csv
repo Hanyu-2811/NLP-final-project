@@ -1,0 +1,3 @@
+setting,roberta_wrong_hier_correct,roberta_correct_hier_wrong,mlp_wrong_hier_correct,mlp_correct_hier_wrong,both_correct,both_wrong,high_disagreement_count,high_dis_roberta_err,high_dis_hier_err,high_dis_mlp_err
+M4_to_M4,34,30,11,31,2033,81,726,0.11294765840220386,0.11432506887052342,0.09917355371900827
+M4_Heldout_ChatGPT,46,0,16,9,7981,616,2443,0.11133851821530905,0.10151453131395825,0.10683585755218993
